@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>JAMB CBT Practice</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background: #eef1f5;
+    margin: 0;
+    padding: 10px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.hidden { display: none; }
+
+.option {
+    border: 1px solid #ccc;
+    padding: 12px;
+    margin: 8px 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.correct { background: #c8f7c5; }
+.wrong { background: #f7c5c5; }
+
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button {
+    padding: 10px 15px;
+    background: #2b5cff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.explanation {
+    background: #f1f4ff;
+    padding: 10px;
+    margin-top: 10px;
+    display: none;
+}
+
+.appreciate-link {
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #f1f4ff;
+    padding: 10px 14px;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 14px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    animation: subtleBlink 2.5s infinite;
+    z-index: 9999;
+}
+
+.appreciate-link a {
+    text-decoration: none;
+    color: #2b5cff;
+    font-weight: bold;
+}
+
+/* subtle blink animation */
+@keyframes subtleBlink {
+    0%   { opacity: 1; }
+    50%  { opacity: 0.6; }
+    100% { opacity: 1; }
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.appreciate-link {
+    text-align: center;
+    margin: 15px auto;
+    font-size: 10px;
+    font-weight: #42445A;
+}
+.app#42445Areciate-link {
+    background: #f1f4ff;
+    padding: 10px;
+    border-radius: 8px;
+}
+.appreciate-link a {
+    text-decoration: none;
+    color: #2b5cff;
+    font-weight: bold;
+}
+/* CALCULATOR */
+.calculator{
+    position: fixed;
+    bottom: 70px;
+    right: 10px;
+    width: 220px;
+    background: lightgrey;
+    border-radius: 10px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.2);
+    padding:10px;
+    display:flex;
+    flex-direction:column;
+    z-index:9999;
+}
+
+.calc-header{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-bottom:5px;
+}
+
+#calcDisplay{
+    width: auto;
+    padding:8px;
+    font-size:17px;
+    margin-bottom:8px;
+    text-align:right;
+    font-weight: bolder;
+}
+
+.calc-buttons{
+    display:flex;
+    flex-wrap:wrap;
+    gap:5px;
+    font-size: 45px;
+    font-weight: bolder;
+}
+
+.calc-buttons button{
+    flex:1 0 22%;
+    padding:5px;
+    background:#2b5cff;
+}
+.clear{
+    flex:100%;
+    background:#ff4444;
+}
+.appreciate-link a:hover {
+    text-decoration: underline;
+}
+@media(max-width:600px) {
+    button { width: 48%; }
+}
+</style>
+</head>
+
+<body>
+
+<!-- LOGIN >
+<div class="appreciate-link">
+   <a href="Appreciation.html">
+  🙏🏻 Enjoying this CBT? Click here to Appreciate Your Teacher with a Gift ❤️
+    </a>
+</div-->
+
+<div class="container" id="login">
+    <h2>JAMB CBT Login</h2>
+
+    <input type="text" id="candidateNo" placeholder="Enter Candidate Number" style="width:92%;padding:10px">
+    <br><br>
+
+
+
+<select id="subjectSelect" style="width:100%;padding:10px">
+    <option value="">Select Subject</option>
+    <option value="maths">Mathematics</option>
+    <option value="physics">Physics</option>
+    <option value="chemistry">Chemistry</option>
+    <option value="Lekki_Headmaster">Lekki Headmaster</option>
+    <option value="biology">Biology</option>
+</select>
+
+    <br><br>
+
+    <button onclick="startExam()" style="width:100%">Start Exam</button>
+</div>
+
+<!-- EXAM -->
+<div class="container hidden" id="exam">
+<div class="top-bar">
+    <strong id="candDisplay"></strong>
+
+    <div>
+        <button onclick="toggleCalculator()" style="background:#444;margin-right:2px; width: auto;">🧮 Calculator</button>
+        <!--<strong>⏱ <span id="timer">01:00:00</span></strong>-->
+    </div>
+</div>
+    <h3 id="question"></h3>
+    <div id="questionImageBox" style="text-align:center;margin-bottom:10px;">
+    <img id="questionImage" style="max-width:100%;max-height:250px;display:none;border-radius:6px;">
+</div>
+    <div id="options"></div>
+
+    <div class="explanation" id="explanation"></div>
+
+<div class="nav">
+    <button onclick="prevQuestion()">Previous</button>
+    <button onclick="nextQuestion()">Next</button>
+</div>
+
+<div style="display:flex;gap:10px;margin-top:10px;">
+    <button onclick="goToQuestion()" style="flex:1;background:#444;">
+        Go To Question
+    </button>
+
+    <button onclick="finishExam()" style="flex:1;background:red;">
+        End Exam
+    </button>
+</div>
+</div>
+
+<!-- RESULT -->
+<div class="container hidden" id="result">
+    <h2>Exam Finished</h2>
+    <p id="scoreText"></p>
+</div>
+<!-- MINI CALCULATOR -->
+<div id="calculator" class="calculator hidden" style="display: none">
+
+    <div class="calc-header">
+        <strong>Mini Calculator</strong>
+        <button onclick="toggleCalculator()" style="background:red; ">Close</button>
+    </div>
+
+    <input type="text" id="calcDisplay" readonly>
+
+    <div class="calc-buttons">
+
+        <button onclick="calcPress('7')">7</button>
+        <button onclick="calcPress('8')">8</button>
+        <button onclick="calcPress('9')">9</button>
+        <button onclick="calcPress('/')">÷</button>
+
+        <button onclick="calcPress('4')">4</button>
+        <button onclick="calcPress('5')">5</button>
+        <button onclick="calcPress('6')">6</button>
+        <button onclick="calcPress('*')">×</button>
+
+        <button onclick="calcPress('1')">1</button>
+        <button onclick="calcPress('2')">2</button>
+        <button onclick="calcPress('3')">3</button>
+        <button onclick="calcPress('-')">−</button>
+
+        <button onclick="calcPress('0')">0</button>
+        <button onclick="calcPress('.')">.</button>
+        <button onclick="calcClear()" style="background-color: black"; class="clear">C</button>
+        <button onclick="calcPress('+')">+</button>
+
+        <button onclick="calcEqual()" style="background-color: blue;">=</button>
+
+    </div>
+</div>
+
+<script>
+let questions = [];
+let index = 0;
+let score = 0;
+let answered = [];
+let time = 3600;
+let timerInt;
+
+fetch("questions.json")
+.then(res => res.json())
+.then(data => {
+    questions = data;
+    //shuffleArray(questions);
+});
+
+function startExam() {
+    const cand = document.getElementById("candidateNo").value.trim();
+    const subject = document.getElementById("subjectSelect").value;
+
+    if (!cand) return alert("Enter candidate number");
+    if (!subject) return alert("Select a subject");
+
+    fetch(subject + ".json")
+        .then(res => res.json())
+        .then(data => {
+
+            questions = data;
+            //shuffleArray(questions);
+
+            document.getElementById("candDisplay").innerText =
+                "Candidate: " + cand + " | Subject: " + subject.toUpperCase();
+
+            document.getElementById("login").classList.add("hidden");
+            document.getElementById("exam").classList.remove("hidden");
+
+            startTimer();
+            loadQuestion();
+        })
+        .catch(err => {
+            alert("Error loading subject questions!");
+            console.log(err);
+        });
+}
+function toggleCalculator(){
+    const calc = document.getElementById("calculator");
+    if(calc.style.display === "flex"){
+        calc.style.display = "none";
+    } else {
+        calc.style.display = "flex";
+    }
+}
+
+function closeCalculator(){
+    document.getElementById("calculator").style.display = "none";
+}
+function calcPress(val){
+    document.getElementById("calcDisplay").value += val;
+}
+
+
+function calcEqual(){
+    try{
+        document.getElementById("calcDisplay").value =
+        eval(document.getElementById("calcDisplay").value);
+    }catch{
+        alert("Invalid Calculation");
+    }
+}
+
+function calcClear(){
+    document.getElementById("calcDisplay").value = "";
+}
+function startTimer() {
+    timerInt = setInterval(() => {
+        time--;
+        let min = Math.floor(time / 60);
+        let sec = time % 60;
+        document.getElementById("timer").innerText =
+            `${min}:${sec < 10 ? "0"+sec : sec}`;
+
+        if (time <= 0) finishExam();
+    }, 1000);
+}
+
+function goToQuestion(){
+
+    let qNum = prompt("Enter question number (1 - " + questions.length + ")");
+
+    if(qNum === null) return;
+
+    qNum = parseInt(qNum);
+
+    if(isNaN(qNum) || qNum < 1 || qNum > questions.length){
+        alert("Invalid question number");
+        return;
+    }
+
+    index = qNum - 1;
+    loadQuestion();
+}
+
+function loadQuestion() {
+
+    const q = questions[index];
+
+    document.getElementById("question").innerText =
+        `Question ${index + 1}: ${q.question}`;
+
+    const img = document.getElementById("questionImage");
+
+    if (q.image) {
+        img.src = q.image;
+        img.style.display = "block";
+    } else {
+        img.style.display = "none";
+    }
+
+    const optDiv = document.getElementById("options");
+    optDiv.innerHTML = "";
+
+    q.options.forEach((opt, i) => {
+
+        const div = document.createElement("div");
+        div.className = "option";
+        div.innerText = opt;
+        div.onclick = () => selectAnswer(div, i);
+
+        optDiv.appendChild(div);
+
+    });
+
+    document.getElementById("explanation").style.display = "none";
+}
+
+function selectAnswer(div, i) {
+    if (answered[index]) return;
+    answered[index] = true;
+
+    const q = questions[index];
+    const options = document.querySelectorAll(".option");
+
+    options.forEach((o, idx) => {
+        if (idx === q.answer) o.classList.add("correct");
+        if (idx === i && i !== q.answer) o.classList.add("wrong");
+    });
+
+    if (i === q.answer) score++;
+
+    const exp = document.getElementById("explanation");
+    exp.style.display = "block";
+    exp.innerText = q.explanation;
+}
+
+function nextQuestion() {
+    if (index < questions.length - 1) {
+        index++;
+        loadQuestion();
+    } else finishExam();
+}
+
+function prevQuestion() {
+    if (index > 0) {
+        index--;
+        loadQuestion();
+    }
+}
+/*function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+}*/
+
+function finishExam() {
+    
+    clearInterval(timerInt);
+    
+    document.getElementById("exam").classList.add("hidden");
+    document.getElementById("result").classList.remove("hidden");
+    
+    let answeredCount = answered.filter(a => a === true).length;
+    
+    document.getElementById("scoreText").innerText =
+        `You scored ${score} out of ${answeredCount} questions answered`;
+
+    const express = require("express");
+const sql = require("mssql");
+const cors = require("cors");
+
+const app = express();
+app.use(cors());
+app.use(express.json());
+
+// 🔹 YOUR SQL SERVER CONFIG
+
+
+// 🔹 SAVE RESULT ROUTE
+
+}
+</script>
+
+</body>
+</html>

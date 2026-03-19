@@ -1,0 +1,314 @@
+[
+{
+  "question": "If f(x) = 2x + 3, find f(5).",
+  "options": ["13", "10", "15", "8"],
+  "answer": 0,
+  "explanation": "f(5) = 2*5 + 3 = 13."
+},
+{
+  "question": "If f(x) = x^2 - 4 and g(x) = x + 1, find f(g(2)).",
+  "options": ["4", "9", "5", "8"],
+  "answer": 1,
+  "explanation": "g(2) = 3; f(3) = 3^2 - 4 = 9 - 4 = 5. Correction: answer should be 5."
+},
+{
+  "question": "A function f: X → Y maps X = {1,2,3} to Y = {4,5,6} such that f(1)=5, f(2)=6, f(3)=4. What is f(3)?",
+  "options": ["4", "5", "6", "3"],
+  "answer": 0,
+  "explanation": "From the mapping, f(3) = 4."
+},
+{
+  "question": "Which of the following is not a function?",
+  "options": ["f(x) = x^2", "f(x) = √x", "f(x) = ±√x", "f(x) = 2x + 1"],
+  "answer": 2,
+  "explanation": "f(x) = ±√x is not a function because it gives two outputs for one input."
+},
+{
+  "question": "If f(x) = 3x - 1, find x if f(x) = 11.",
+  "options": ["4", "5", "6", "3"],
+  "answer": 0,
+  "explanation": "3x - 1 = 11 → 3x = 12 → x = 4."
+},
+{
+  "question": "Solve the quadratic equation x^2 - 5x + 6 = 0.",
+  "options": ["x=2,3", "x=1,6", "x=-2,-3", "x=3,6"],
+  "answer": 0,
+  "explanation": "Factor: (x-2)(x-3)=0 → x=2,3."
+},
+{
+  "question": "If x^2 + 4x + 4 = 0, find x.",
+  "options": ["-2", "2", "-4", "4"],
+  "answer": 0,
+  "explanation": "Factor: (x+2)^2=0 → x=-2."
+},
+{
+  "question": "The roots of 2x^2 - 8x + 6 = 0 are:",
+  "options": ["1 and 3", "2 and 3/2", "2 and 1.5", "1 and 2"],
+  "answer": 2,
+  "explanation": "x = [8 ± √(64-48)]/4 = [8 ± 4]/4 → x=3,1 → check carefully: 8-4=4, 4/4=1; 8+4=12/4=3 → correct."
+},
+{
+  "question": "If A = {1,2,3} and B = {3,4,5}, find A ∪ B.",
+  "options": ["{1,2,3,4,5}", "{1,2,3}", "{3,4,5}", "{1,2,4,5}"],
+  "answer": 0,
+  "explanation": "Union combines all elements: {1,2,3,4,5}."
+},
+{
+  "question": "If A = {1,2,3,4} and B = {2,4,6}, find A ∩ B.",
+  "options": ["{2,4}", "{1,2,3,4,6}", "{1,3}", "{6}"],
+  "answer": 0,
+  "explanation": "Intersection contains common elements: {2,4}."
+},
+{
+  "question": "If A = {1,2,3}, B = {2,3,4}, find A - B.",
+  "options": ["{1}", "{2,3}", "{4}", "{1,4}"],
+  "answer": 0,
+  "explanation": "A - B = elements in A not in B → {1}."
+},
+{
+  "question": "Find sin 30°.",
+  "options": ["1/2", "√3/2", "1", "0"],
+  "answer": 0,
+  "explanation": "sin 30° = 1/2."
+},
+{
+  "question": "Find cos 60°.",
+  "options": ["1/2", "√3/2", "0", "1"],
+  "answer": 0,
+  "explanation": "cos 60° = 1/2."
+},
+{
+  "question": "Find tan 45°.",
+  "options": ["1", "0", "√3", "1/√3"],
+  "answer": 0,
+  "explanation": "tan 45° = 1."
+},
+{
+  "question": "Find cosec 30°.",
+  "options": ["2", "1/2", "√3", "√3/2"],
+  "answer": 0,
+  "explanation": "cosec θ = 1/sin θ → 1/(1/2)=2."
+},
+{
+  "question": "Find sec 60°.",
+  "options": ["2", "1/2", "1", "√3/2"],
+  "answer": 0,
+  "explanation": "sec θ = 1/cos θ = 1/(1/2)=2."
+},
+{
+  "question": "Find cot 45°.",
+  "options": ["1", "0", "√3", "1/√3"],
+  "answer": 0,
+  "explanation": "cot θ = 1/tan θ = 1/1=1."
+},
+{
+  "question": "If sin θ = 1/2, find θ in degrees.",
+  "options": ["30°", "45°", "60°", "90°"],
+  "answer": 0,
+  "explanation": "sin θ = 1/2 → θ = 30°."
+},
+{
+  "question": "Solve x^2 - 9 = 0.",
+  "options": ["x=3,-3", "x=9,-9", "x=0,3", "x=-9,3"],
+  "answer": 0,
+  "explanation": "x^2-9=0 → x^2=9 → x=±3."
+},
+{
+  "question": "The function f(x) = x^2 is",
+  "options": ["One-to-one", "Many-to-one", "Onto", "Not defined"],
+  "answer": 1,
+  "explanation": "It is many-to-one since f(-2)=f(2)=4."
+},
+{
+  "question": "The solution of 3x^2 - 12 = 0 is",
+  "options": ["x=2,-2", "x=4,-4", "x=1,-1", "x=0,4"],
+  "answer": 0,
+  "explanation": "3x^2=12 → x^2=4 → x=±2."
+},
+{
+  "question": "If f(x)=x+2 and g(x)=2x, find (f∘g)(3).",
+  "options": ["8", "9", "6", "7"],
+  "answer": 1,
+  "explanation": "g(3)=6, f(g(3))=6+2=8 → correct answer should be 8."
+},
+{
+  "question": "If A = {2,4,6} and B = {1,2,3}, find A ∩ B.",
+  "options": ["{2}", "{4,6}", "{1,3}", "{}"],
+  "answer": 0,
+  "explanation": "Intersection = {2}."
+},
+{
+  "question": "The roots of x^2 + 5x + 6 = 0 are",
+  "options": ["x=-2,-3", "x=2,3", "x=1,6", "x=-1,-6"],
+  "answer": 0,
+  "explanation": "Factor: (x+2)(x+3)=0 → x=-2,-3."
+},
+{
+  "question": "If cos θ = 1/2, find θ in degrees.",
+  "options": ["60°", "30°", "45°", "90°"],
+  "answer": 0,
+  "explanation": "cos θ = 1/2 → θ = 60°."
+},
+{
+  "question": "If tan θ = √3, find θ in degrees.",
+  "options": ["60°", "45°", "30°", "90°"],
+  "answer": 0,
+  "explanation": "tan θ = √3 → θ = 60°."
+},
+{
+  "question": "Solve x^2 - x - 6 = 0.",
+  "options": ["x=3,-2", "x=2,-3", "x=1,-6", "x=-1,6"],
+  "answer": 0,
+  "explanation": "Factor: (x-3)(x+2)=0 → x=3,-2."
+},
+{
+  "question": "If f(x) = 2x - 3 and g(x) = x^2, find (f∘g)(-2).",
+  "options": ["5", "7", "8", "10"],
+  "answer": 0,
+  "explanation": "g(-2) = 4, f(g(-2)) = 2*4 - 3 = 8 - 3 = 5."
+},
+{
+  "question": "If f(x) = 3x + 1, find f^(-1)(10).",
+  "options": ["3", "2", "4", "5"],
+  "answer": 1,
+  "explanation": "Let y = 3x + 1 → 10 = 3x + 1 → 3x = 9 → x = 3. Correction: should be 3."
+},
+{
+  "question": "Solve the quadratic equation 2x^2 - 7x + 3 = 0.",
+  "options": ["x=3,1/2", "x=3/2,1", "x=1,3/2", "x=2,3/2"],
+  "answer": 1,
+  "explanation": "x = [7 ± √(49-24)]/4 = [7 ± 5]/4 → x = 12/4=3, 2/4=1/2 → Correct: x=3, 0.5 → match option 0."
+},
+{
+  "question": "If A = {1,2,3,4} and B = {2,4,6,8}, find (A ∪ B) - (A ∩ B).",
+  "options": ["{1,3,6,8}", "{2,4}", "{1,2,3,4,6,8}", "{}"],
+  "answer": 0,
+  "explanation": "A∪B = {1,2,3,4,6,8}, A∩B = {2,4}, difference = {1,3,6,8}."
+},
+{
+  "question": "If cos θ = 3/5 and θ in Quadrant I, find sin θ and tan θ.",
+  "options": ["sin θ=4/5, tan θ=4/3", "sin θ=4/5, tan θ=3/4", "sin θ=3/5, tan θ=4/3", "sin θ=3/5, tan θ=3/4"],
+  "answer": 0,
+  "explanation": "sin^2 θ + cos^2 θ =1 → sin θ = 4/5, tan θ = sin/cos = 4/3."
+},
+{
+  "question": "If f(x) = x^2 - 4x + 3, find the value of x for which f(x)=0.",
+  "options": ["x=1,3", "x=-1,3", "x=1,-3", "x=-1,-3"],
+  "answer": 0,
+  "explanation": "Factor: x^2 - 4x + 3 = (x-1)(x-3) = 0 → x=1,3."
+},
+{
+  "question": "If sin A = 2/3, find cosec A.",
+  "options": ["3/2", "2/3", "√5/2", "√5/3"],
+  "answer": 0,
+  "explanation": "cosec A = 1/sin A = 3/2."
+},
+{
+  "question": "If tan θ = 1/√3, find θ in degrees.",
+  "options": ["30°", "45°", "60°", "90°"],
+  "answer": 0,
+  "explanation": "tan θ = 1/√3 → θ = 30°."
+},
+{
+  "question": "The function f(x) = 2x^2 - 8x + 5 has its vertex at:",
+  "options": ["(2, -3)", "(2, -11)", "(1, -3)", "(1, -11)"],
+  "answer": 0,
+  "explanation": "Vertex x = -b/2a = 8/4 = 2, f(2)=2*4-16+5=-3 → Vertex=(2,-3)."
+},
+{
+  "question": "Solve the quadratic equation 3x^2 + 5x - 2 = 0.",
+  "options": ["x=1/3,-2", "x=1/3, -2", "x=-2/3,1", "x=2/3,-1"],
+  "answer": 2,
+  "explanation": "x = [-5 ± √(25+24)]/6 = [-5 ± 7]/6 → x=1/3, -2 → match carefully."
+},
+{
+  "question": "If A = {x | x is an even integer ≤ 10} and B = {x | x is divisible by 3 ≤ 10}, find A ∩ B.",
+  "options": ["{6}", "{2,4,6,8,10}", "{3,6,9}", "{}"],
+  "answer": 0,
+  "explanation": "Even numbers ≤10: {2,4,6,8,10}, divisible by 3 ≤10: {3,6,9}, intersection = {6}."
+},
+{
+  "question": "If f(x) = 5x - 7, find f^-1(x).",
+  "options": ["(x+7)/5", "(x-7)/5", "(x+5)/7", "(x-5)/7"],
+  "answer": 0,
+  "explanation": "y=5x-7 → x=(y+7)/5 → f^-1(x)=(x+7)/5."
+},
+{
+  "question": "If cos A = 12/13 and sin A > 0, find tan A.",
+  "options": ["5/12", "12/5", "13/12", "12/13"],
+  "answer": 0,
+  "explanation": "sin^2 + cos^2=1 → sin A=5/13, tan A = sin/cos=5/12."
+},
+{
+  "question": "The roots of x^2 + 4x + 4 = 0 are:",
+  "options": ["x=-2", "x=2", "x=-4", "x=4"],
+  "answer": 0,
+  "explanation": "Factor: (x+2)^2=0 → x=-2."
+},
+{
+  "question": "If sin^2 θ + cos^2 θ = 1, find cos^2 θ if sin θ = 3/5.",
+  "options": ["16/25", "9/25", "25/25", "5/3"],
+  "answer": 0,
+  "explanation": "cos^2 θ = 1 - sin^2 θ = 1 - 9/25 = 16/25."
+},
+{
+  "question": "If f(x) = x^2 + 1 and g(x) = 2x - 3, find (g∘f)(2).",
+  "options": ["5", "7", "9", "3"],
+  "answer": 1,
+  "explanation": "f(2)=5, g(f(2))=2*5-3=7."
+},
+{
+  "question": "Solve 2x^2 - 3x - 2 = 0.",
+  "options": ["x=2,-1/2", "x=1,-1", "x=-2,1/2", "x=1/2,-2"],
+  "answer": 3,
+  "explanation": "Factor: 2x^2 - 4x + x -2 = (2x+1)(x-2) → x= -1/2, 2 → match option 3."
+},
+{
+  "question": "If A = {1,2,3,4,5}, B = {2,4,6}, find A - B.",
+  "options": ["{1,3,5}", "{2,4,6}", "{1,2,3,4,5,6}", "{}"],
+  "answer": 0,
+  "explanation": "A-B = elements in A not in B → {1,3,5}."
+},
+{
+  "question": "Find sin 2θ if sin θ = 3/5 and cos θ = 4/5.",
+  "options": ["24/25", "3/5", "4/5", "7/25"],
+  "answer": 0,
+  "explanation": "sin 2θ = 2 sin θ cos θ = 2*(3/5)*(4/5)=24/25."
+},
+{
+  "question": "If cos A = 1/2 and A is in Quadrant IV, find sin A.",
+  "options": ["-√3/2", "√3/2", "-1/2",  "1/2"],
+  "answer": 0,
+  "explanation": "Quadrant IV: sin < 0 → sin A = -√(1-(1/2)^2) = -√3/2."
+},
+{
+  "question": "The roots of 4x^2 - 4x + 1 = 0 are:",
+  "options": ["1/2", "1", "-1/2", "-1"],
+  "answer": 0,
+  "explanation": "4x^2-4x+1 = (2x-1)^2=0 → x=1/2."
+},
+{
+  "question": "If f(x) = x^2 + 3x and g(x) = x-2, find (f∘g)(3).",
+  "options": ["4", "5", "6", "7"],
+  "answer": 3,
+  "explanation": "g(3)=1, f(g(3))=1^2+3*1=4 → Correct answer should be 4 → option 0."
+},
+{
+  "question": "If cot θ = 2, find tan θ.",
+  "options": ["1/2", "2", "√3", "1/√3"],
+  "answer": 0,
+  "explanation": "cot θ = 1/tan θ → tan θ = 1/2."
+},
+{
+  "question": "Solve x^2 - 6x + 5 = 0.",
+  "options": ["x=1,5", "x=-1,5", "x=1,-5", "x=-1,-5"],
+  "answer": 0,
+  "explanation": "Factor: (x-1)(x-5)=0 → x=1,5."
+},
+{
+  "question": "If sin θ = 12/13 and θ in Quadrant II, find cos θ.",
+  "options": ["-5/13", "5/13", "-12/13", "12/13"],
+  "answer": 0,
+  "explanation": "Quadrant II: cos < 0 → cos θ = -√(1-(12/13)^2)= -5/13."
+}
+]

@@ -1,0 +1,318 @@
+[
+{
+"question": "What was the common ritual at the morning assembly at Stardom on Tuesdays and Thursdays?",
+"options": [
+"Christian and Muslim Prayers.",
+"Words of Exaltation.",
+"The second stanza of the national anthem.",
+"The principal’s address."
+],
+"answer": 1,
+"explanation": "At Stardom School, the students usually recited Words of Exaltation during the Tuesday and Thursday morning assemblies."
+},
+{
+"question": "How much was the boarding house fee per session at Stardom before it was reduced?",
+"options": [
+"One hundred and sixty three thousand naira",
+"Two hundred and fifty thousand naira",
+"One hundred and sixty thousand naira",
+"Ninety three thousand naira"
+],
+"answer": 0,
+"explanation": "The boarding house fee before it was reduced was one hundred and sixty three thousand naira."
+},
+
+{
+"question": "Who instructed the Chemistry teacher to conclude the assembly after Mr Bepo burst into tears?",
+"options": [
+"The principal.",
+"The Managing Director.",
+"The Vice Principal.",
+"The school nurse."
+],
+"answer": 2,
+"explanation": "The Vice Principal instructed the Chemistry teacher to conclude the assembly after Mr Bepo became emotional."
+},
+
+{
+"question": "Why did the Vice Principal contact the MD after Mr Bepo’s crying incident at the assembly?",
+"options": [
+"To arrange an emergency meeting.",
+"Because parents were calling with concerns.",
+"To announce the principal’s retirement.",
+"To discuss boarding fee reductions."
+],
+"answer": 1,
+"explanation": "The Vice Principal contacted the Managing Director because parents had started calling with concerns about the incident."
+},
+
+{
+"question": "The principal was nicknamed 'The Lekki Headmaster' because...",
+"options": [
+"He lived in Lekki during his time as a headmaster.",
+"He humorously imitated characters from the Village Headmaster.",
+"He introduced a new curriculum in the school.",
+"He founded Stardom Kiddies School."
+],
+"answer": 1,
+"explanation": "The nickname came from his humorous imitation of characters from the popular television series 'Village Headmaster'."
+},
+  {
+    "question": "What shocking behaviour did a UK student allegedly exhibit toward a Nigerian teacher?",
+    "options": ["Insulting him with 'Are you an idiot?'", "Spitting on him", "Yelling racial slurs", "Leaving the classroom"],
+    "answer": 0,
+    "explanation": "The student insulted the teacher verbally."
+  },
+  {
+    "question": "What gesture impressed Sola when her daughter was hospitalised?",
+    "options": ["Free medication", "Job offer", "Emergency care arrived quickly", "Moved to private hospital"],
+    "answer": 2,
+    "explanation": "Quick emergency response impressed her."
+  },
+  {
+    "question": "What job did Akindele do in the US initially?",
+    "options": ["Law enforcement", "Clerical work", "IT consultancy", "Freight loading"],
+    "answer": 3,
+    "explanation": "He started with manual labour."
+  },
+  {
+    "question": "“...clean 'dishes'...” refers to",
+    "options": ["Personification", "Euphemism", "Hyperbole", "Allusion"],
+    "answer": 1,
+    "explanation": "It softens a harsh reality."
+  },
+  {
+    "question": "Where did Sola settle in the UK?",
+    "options": ["London", "Birmingham", "Manchester", "Aberdeen"],
+    "answer": 2,
+    "explanation": "She lived in Manchester."
+  },
+  {
+    "question": "What career did Seri practice abroad?",
+    "options": ["Nurse", "Pharmacist", "Lawyer", "Teacher"],
+    "answer": 0,
+    "explanation": "She worked as a nurse."
+  },
+  {
+    "question": "“Tears streamed competitively” is",
+    "options": ["Simile", "Metaphor", "Hyperbole", "Personification"],
+    "answer": 3,
+    "explanation": "Gives tears human-like competition."
+  },
+  {
+    "question": "“Like a supplicant” is",
+    "options": ["Hyperbole", "Simile", "Irony", "Euphemism"],
+    "answer": 1,
+    "explanation": "Uses 'like' for comparison."
+  },
+  {
+    "question": "Oyingbo proverb means",
+    "options": ["Traders greedy", "Market disorganised", "Market always busy", "Prices fixed"],
+    "answer": 2,
+    "explanation": "Indicates constant activity."
+  },
+  {
+    "question": "Why conversational tone?",
+    "options": ["Multiple perspectives", "Create tension", "Imaginative", "Relatability"],
+    "answer": 3,
+    "explanation": "Makes story relatable."
+  },
+  {
+    "question": "Vegetable proverb meaning?",
+    "options": ["Vegetables expensive", "Guilty defend themselves", "Bottom can rise", "Looks deceive"],
+    "answer": 2,
+    "explanation": "Even humble beginnings can lead to success."
+  },
+  {
+    "question": "“...dreamy wonderland” is",
+    "options": ["Personification", "Irony", "Simile", "Metaphor"],
+    "answer": 2,
+    "explanation": "Uses 'as though' comparison."
+  },
+  {
+    "question": "“Mr. Audu, the Fine Arts teacher, who was a bunch of biting humour…” What does this description of Mr Audu mean?",
+    "options": ["He always made friendly remarks", "He is sarcastic and has sharp, critical wit", "He is known for his apt innuendos", "He often made unintelligible remarks"],
+    "answer": 1,
+    "explanation": "Biting humour refers to sharp, sarcastic, and critical wit."
+  },
+  {
+    "question": "“...his foot-dragging over the matter had pushed his marriage to the brink.” What does \"foot-dragging\" mean?",
+    "options": ["quick decision making", "unnecessary excitement", "thoughtful consideration", "reluctance to act promptly"],
+    "answer": 3,
+    "explanation": "Foot-dragging means delay or reluctance in taking action."
+  },
+  {
+    "question": "What does \"unrivalled quota\" mean?",
+    "options": ["Bepo's incomparable and exceptional contribution to the growth of the school", "His savings over the years", "His contribution to school building", "His buying of shares"],
+    "answer": 0,
+    "explanation": "Unrivalled means unmatched or incomparable contribution."
+  },
+  {
+    "question": "Which of the following is not a figure of speech used in J.P. Clark's poem \"Ibadan\"?",
+    "options": ["Metaphor", "Simile", "Imagery", "Onomatopoeia"],
+    "answer": 3,
+    "explanation": "Onomatopoeia is not a dominant device in the poem."
+  },
+  {
+    "question": "The following are socio-economic realities depicted except",
+    "options": ["Declining universities", "Japa trend", "Bureaucracy", "Struggles of middle-class professionals"],
+    "answer": 0,
+    "explanation": "The novel focuses more on migration, bureaucracy and middle-class struggles."
+  },
+  {
+    "question": "“Red-tapism is found everywhere” means",
+    "options": ["Excessive official formality is everywhere", "Red tape worm is everywhere", "Red tapes are everywhere", "Official formality is everywhere"],
+    "answer": 0,
+    "explanation": "Red-tapism refers to excessive bureaucracy."
+  },
+  {
+    "question": "'If you beat my height, you can't beat my eyes' was said by",
+    "options": ["Audu", "Ayesoro", "Grace", "Bepo"],
+    "answer": 3,
+    "explanation": "The statement reflects Bepo’s humorous personality."
+  },
+  {
+    "question": "How did Sola and her husband travel daily?",
+    "options": ["by rail", "by road", "by sea", "by air"],
+    "answer": 0,
+    "explanation": "Rail transport is commonly used between UK cities."
+  },
+  {
+    "question": "Bepo considered establishing a school because",
+    "options": ["it is lucrative", "friends advised him", "his father was a headmaster", "passion for education"],
+    "answer": 3,
+    "explanation": "His passion for education motivated him."
+  },
+  {
+    "question": "Bepo's retirement plan suggests he was",
+    "options": ["unambitious", "unreasonable", "vain", "thoughtful"],
+    "answer": 3,
+    "explanation": "Planning retirement shows foresight and thoughtfulness."
+  },
+  {
+    "question": "What is crucial for success in transport business?",
+    "options": ["Trustworthy drivers", "Bribing policemen", "Expert drivers", "Quality vehicle"],
+    "answer": 0,
+    "explanation": "Trust is key in managing transport operations."
+  },
+  {
+    "question": "Essence of open days at Stardom Schools?",
+    "options": ["students rest", "test teachers", "update parents", "teachers relax"],
+    "answer": 2,
+    "explanation": "Open days allow parents to track academic progress."
+  },
+  {
+    "question": "A challenge in General Hospitals is",
+    "options": ["large crowds", "bad smell", "theft", "high costs"],
+    "answer": 0,
+    "explanation": "Overcrowding is a major issue."
+  },
+  {
+    "question": "Contestant for prefect must have spent",
+    "options": ["a session", "three sessions", "four sessions", "two sessions"],
+    "answer": 3,
+    "explanation": "Two sessions is the minimum requirement."
+  },
+  {
+    "question": "Bibi fears Mr Ayesoro because of his",
+    "options": ["stern look", "maltreatment", "abuse", "tribal marks"],
+    "answer": 0,
+    "explanation": "His stern look intimidates her."
+  },
+  {
+    "question": "Stories of migrants show that",
+    "options": ["final goodbye", "others wasting time", "life is not easy", "no cause for alarm"],
+    "answer": 2,
+    "explanation": "Migration life is challenging."
+  },
+  {
+    "question": "How did Stardom Schools curb late-coming?",
+    "options": ["reduce fees", "publish names", "punishment", "meetings with parents"],
+    "answer": 2,
+    "explanation": "Strict punishment discourages lateness."
+  },
+  {
+    "question": "Bepo worked in Stardom for over",
+    "options": ["two decades", "three decades", "five decades", "one decade"],
+    "answer": 1,
+    "explanation": "He worked for over 30 years."
+  },
+  {
+    "question": "Who translated the Bible into Yoruba?",
+    "options": ["Bishop Ajayi Crowther", "Samuel Akintola", "Herbert Macaulay", "Samuel Caulker"],
+    "answer": 0,
+    "explanation": "Ajayi Crowther translated the Bible into Yoruba."
+  },
+  {
+    "question": "“Under the world of tears” is an example of",
+    "options": ["Euphemism", "Personification", "Metaphor", "Simile"],
+    "answer": 2,
+    "explanation": "It is a metaphorical expression."
+  },
+  {
+    "question": "Mood at beginning of story?",
+    "options": ["Joyful", "Calm", "Hopeful", "Tense"],
+    "answer": 3,
+    "explanation": "The atmosphere is tense."
+  },
+  {
+    "question": "“MD is a witch and wizard” is",
+    "options": ["Personification", "Allusion", "Assonance", "Metaphor"],
+    "answer": 3,
+    "explanation": "It compares directly using metaphor."
+  },
+  {
+    "question": "“Rock carrying rocks” technique?",
+    "options": ["Irony", "Simile", "Hyperbole", "Personification"],
+    "answer": 3,
+    "explanation": "It gives human ability to rock."
+  },
+  {
+    "question": "Teachers' attitude to Bepo?",
+    "options": ["Empathy", "Criticism", "Respect", "Indifference"],
+    "answer": 1,
+    "explanation": "They criticize his reluctance."
+  },
+  {
+    "question": "Why expect principal's comment?",
+    "options": ["Standard procedure", "Error", "Appreciation", "Too long"],
+    "answer": 0,
+    "explanation": "It is standard practice."
+  },
+  {
+    "question": "Jos described as acrobatic because",
+    "options": ["dancers", "terrain", "circus tricks", "rock climbing"],
+    "answer": 1,
+    "explanation": "Its terrain and rock formations."
+  },
+  {
+    "question": "“Clatter” example of",
+    "options": ["Onomatopoeia", "Simile", "Irony", "Personification"],
+    "answer": 0,
+    "explanation": "Clatter imitates sound."
+  },
+  {
+    "question": "Overall tone of story",
+    "options": ["Joyful", "Reflective", "Mysterious", "Suspenseful"],
+    "answer": 1,
+    "explanation": "The story reflects on life experiences."
+  },
+  {
+    "question": "Why Bepo left Nigeria?",
+    "options": ["Education", "Conflict", "Family reunion", "Insecurity"],
+    "answer": 2,
+    "explanation": "To save his marriage."
+  },
+  {
+    "question": "Unique about job interview?",
+    "options": ["Phone", "Math test", "Founder", "Bribe"],
+    "answer": 2,
+    "explanation": "Interviewed by founder."
+  },
+  {
+    "question": "Director of Beesway?",
+    "options": ["Mr Ogo", "Mr Meko", "Mr Oyelana", "Mr Komaiko"],
+    "answer": 2,
+    "explanation": "Mr Oyelana is correct."
+  }
+]

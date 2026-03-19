@@ -1,0 +1,1529 @@
+[
+{"_comment": "organic chemistry pg 1 - 84                   Metals 85 - 193",
+"question": "Which of the following represents a carboxylic acid?",
+"options": ["R-COOH","R-COR","H2SO4","R-COOCOR","R-CHO"],
+"answer": 0,
+"explanation": "Carboxylic acids contain the functional group –COOH."
+},
+{
+"question": "Which of the following statements is incorrect?",
+"options": [
+"Fractional distillation of crude petroleum gives fuels in order of increasing boiling point: butane < petrol < kerosene",
+"H2C=CH2 can serve as a monomer in the preparation of polythene",
+"Both but-1-ene and but-1-yne decolourize bromine water",
+"But-2-ene reacts with chlorine to form 2,3-dichlorobutane",
+"Calcium carbide reacts with water to form an alkyne"
+],
+"answer": 0,
+"explanation": "Butane boils before petrol; the order is incorrect."
+},
+{
+"question": "Alkanes are compounds that",
+"options": [
+"are all gases",
+"have the general formula C2H2O",
+"contain only carbon and hydrogen",
+"are usually soluble in water",
+"are very reactive compounds"
+],
+"answer": 2,
+"explanation": "Alkanes are saturated hydrocarbons containing only carbon and hydrogen."
+},
+{
+"question": "If a hydrocarbon reacts with chlorine in bright sunlight and chlorine is consumed, the reaction is",
+"options": [
+"polymerization",
+"isomerization",
+"addition",
+"substitution",
+"reduction"
+],
+"answer": 3,
+"explanation": "Alkanes react with chlorine by free-radical substitution in sunlight."
+},
+{
+"question": "The function of concentrated H2SO4 in esterification is to",
+"options": [
+"act as dehydrating agent",
+"serve as solvent",
+"act as catalyst",
+"prevent side reactions",
+"act as oxidizing agent"
+],
+"answer": 2,
+"explanation": "It provides acidic medium and acts as catalyst."
+},
+{
+"question": "Complete hydrogenation of ethyne produces",
+"options": ["benzene","methane","ethene","propane","ethane"],
+"answer": 4,
+"explanation": "Ethyne + 2H2 → ethane."
+},
+{
+"question": "In the breath test using acidified potassium dichromate, ethanol changes the solution colour to",
+"options": ["pink","purple","orange","blue-black","green"],
+"answer": 4,
+"explanation": "Dichromate is reduced from orange to green."
+},
+{
+"question": "Cotton is almost pure",
+"options": ["starch","protein","animal fibre","cellulose","mineral fibre"],
+"answer": 3,
+"explanation": "Cotton fibres consist mainly of cellulose."
+},
+{
+"question": "The type of reaction between ethene and halogens is",
+"options": ["substitution","polymerization","addition","saponification","oxidation"],
+"answer": 2,
+"explanation": "Halogens add across the C=C double bond."
+},
+{
+"question": "Which process gives high purity ethanol (>95%) from palm wine?",
+"options": [
+"fractional distillation without dehydrant",
+"simple distillation",
+"fractional distillation with dehydrant",
+"chromatography",
+"evaporation"
+],
+"answer": 2,
+"explanation": "A dehydrating agent removes remaining water."
+},
+{
+"question": "The cracking process in petroleum refining is important because it",
+"options": [
+"gives purer products",
+"yields more lubricants",
+"yields more engine fuels",
+"yields more asphalt",
+"yields more wax"
+],
+"answer": 2,
+"explanation": "Cracking converts large hydrocarbons into petrol-range fuels."
+},
+{
+"question": "The hybridization of carbon atoms in ethyne is",
+"options": ["sp3","sp2","sp","dsp2","s"],
+"answer": 2,
+"explanation": "Ethyne carbon atoms are sp hybridized."
+},
+{
+"question": "Heating kerosene at high temperature to produce lighter fractions is called",
+"options": ["polymerization","refining","hydrogenation","cracking","fractional distillation"],
+"answer": 3,
+"explanation": "Large molecules break into smaller ones."
+},
+{
+"question": "Alkaline hydrolysis of fats produces",
+"options": [
+"fats and acids",
+"soaps and glycerol",
+"margarine and glycerol",
+"esters",
+"alcohols"
+],
+"answer": 1,
+"explanation": "Saponification forms soap and glycerol."
+},
+{
+"question": "The flame used by welders for cutting metals is",
+"options": [
+"butane flame",
+"acetylene flame",
+"kerosene flame",
+"oxy-acetylene flame",
+"oxygen flame"
+],
+"answer": 3,
+"explanation": "Oxy-acetylene flame produces very high temperature."
+},
+{
+"question": "Consecutive members of the alkane homologous series differ by",
+"options": ["CH","CH2","CH3","C2H2","CH4"],
+"answer": 1,
+"explanation": "Each successive member differs by –CH2."
+},
+{
+"question": "Starch can be converted to ethanol by",
+"options": ["distillation","fermentation","isomerization","cracking","cooking"],
+"answer": 1,
+"explanation": "Yeast fermentation converts sugars to ethanol."
+},
+{
+"question": "Hydrogenation is defined as",
+"options": [
+"removal of hydrogen",
+"addition of hydrogen to unsaturated compound",
+"addition of hydrogen to alkane",
+"removal of hydrogen from alkyne",
+"addition of hydrogen to alcohol"
+],
+"answer": 1,
+"explanation": "Hydrogen adds across multiple bonds."
+},
+{
+"question": "The reaction between an acid and an alcohol to produce ester is called",
+"options": ["saponification","dehydration","esterification","hydrolysis","hydration"],
+"answer": 2,
+"explanation": "Acid + alcohol → ester + water."
+},
+{
+"question": "An example of a polysaccharide is",
+"options": ["glucose","mannose","fructose","starch","dextrose"],
+"answer": 3,
+"explanation": "Starch is a polymer of glucose."
+},
+{
+"question": "The gas responsible for most explosions in coal mines is",
+"options": ["butane","ethene","ethane","methane"],
+"answer": 3,
+"explanation": "Methane (firedamp) forms explosive mixtures with air."
+},
+{
+"question": "The fraction of crude oil used as jet fuel is",
+"options": ["refinery gas","diesel oil","kerosene","gasoline"],
+"answer": 2,
+"explanation": "Jet fuel is mainly kerosene fraction."
+},
+{
+"question": "The compound that decolourizes bromine water is",
+"options": ["alkane","alkene","alkane acid","ester"],
+"answer": 1,
+"explanation": "Alkenes contain double bonds that react with bromine."
+},
+{
+"question": "Alcohols are soluble in water mainly because of",
+"options": ["hydrogen bonding","ionic character","boiling point","covalent bonding"],
+"answer": 0,
+"explanation": "Hydrogen bonding occurs between alcohol and water molecules."
+},
+{
+"question": "Fermentation is the",
+"options": [
+"breaking of carbohydrate to glucose",
+"conversion of sugar to alcohol by yeast",
+"breaking sugar to carbohydrate",
+"conversion of alcohol to sugar"
+],
+"answer": 1,
+"explanation": "Yeast converts glucose to ethanol and CO2."
+},
+{
+"question": "Polyvinyl chloride (PVC) is commonly used to produce",
+"options": ["bread","pencils","ink","pipes"],
+"answer": 3,
+"explanation": "PVC is widely used for plastic pipes."
+},
+{
+"question": "Which of the following cannot be obtained by fractional distillation of petroleum?",
+"options": ["ether", "methane", "butane", "ethene", "hydrogen"],
+"answer": 3,
+"explanation": "Ethene is produced mainly by cracking rather than fractional distillation."
+},
+{
+"question": "The alkanol obtained during the manufacture of soap is",
+"options": ["ethanol", "glycerol", "methanol", "propanol", "glycol"],
+"answer": 1,
+"explanation": "Saponification of fats produces soap and glycerol."
+},
+{
+"question": "Which of the following separation processes is most suitable for obtaining ethanol above 95% purity from palm wine?",
+"options": [
+"fractional distillation without dehydrant",
+"simple distillation",
+"fractional distillation with dehydrant",
+"column chromatography",
+"evaporation"
+],
+"answer": 2,
+"explanation": "A dehydrating agent is required to remove remaining water."
+},
+{
+"question": "The cracking process is important in the petroleum industry because it",
+"options": [
+"gives purer products",
+"yields more lubricants",
+"yields more engine fuels",
+"yields more asphalt",
+"yields more candle wax"
+],
+"answer": 2,
+"explanation": "Cracking breaks long hydrocarbons into smaller gasoline-range molecules."
+},
+{
+"question": "The hybridization of carbon atoms in ethyne is",
+"options": ["sp3", "sp2", "sp", "dsp2", "s"],
+"answer": 2,
+"explanation": "Carbon atoms in ethyne are sp hybridized."
+},
+{
+"question": "When kerosene fraction from petroleum is heated at high temperature to obtain a lower boiling liquid, the process is called",
+"options": ["polymerization", "refining", "hydrogenation", "cracking", "fractional distillation"],
+"answer": 3,
+"explanation": "Cracking breaks large molecules into smaller ones."
+},
+{
+"question": "Starch can be converted to ethanol by",
+"options": ["distillation", "fermentation", "isomerization", "cracking", "cooking"],
+"answer": 1,
+"explanation": "Fermentation converts sugars to ethanol using yeast."
+},
+{
+"question": "Hydrogenation is defined as",
+"options": [
+"removal of hydrogen from an alkane",
+"addition of hydrogen to an unsaturated compound",
+"addition of hydrogen to an alkane",
+"removal of hydrogen from an alkyne",
+"addition of hydrogen to ethanol"
+],
+"answer": 1,
+"explanation": "Hydrogenation adds hydrogen across double or triple bonds."
+},
+{
+"question": "When excess ethanol is heated at 145°C in the presence of concentrated H2SO4, the product is",
+"options": [
+"diethyl ether",
+"ethyne",
+"diethyl sulphate",
+"acetone",
+"ethanoic acid"
+],
+"answer": 0,
+"explanation": "Two ethanol molecules combine to form diethyl ether."
+},
+{
+"question": "The reaction between ethene and chlorine to produce 1,2-dichloroethane is called",
+"options": ["substitution", "addition", "polymerization", "hydrolysis", "reduction"],
+"answer": 1,
+"explanation": "Halogens add across the C=C double bond."
+},
+{
+"question": "Hardening of vegetable oils can be achieved by",
+"options": [
+"boiling with water",
+"boiling with catalyst",
+"treating with NaOH",
+"treating with hydrogen and catalyst",
+"distillation under reduced pressure"
+],
+"answer": 3,
+"explanation": "Hydrogenation converts unsaturated oils into saturated fats."
+},
+{
+"question": "Which of the following hydrocarbons burns with a sooty flame?",
+"options": ["alkanes", "alkenes", "aromatic hydrocarbons", "alkynes"],
+"answer": 2,
+"explanation": "Aromatic hydrocarbons contain high carbon content leading to sooty flame."
+},
+{
+"question": "An example of an aromatic compound is",
+"options": ["ethanol", "benzene", "ethene", "methane"],
+"answer": 1,
+"explanation": "Benzene is the simplest aromatic compound."
+},
+{
+"question": "Synthetic detergents are preferred to soaps in hard water because",
+"options": [
+"detergents are insoluble in water",
+"calcium salts of detergents are soluble",
+"magnesium salts of soaps are soluble",
+"soaps lack hydrocarbon chains"
+],
+"answer": 1,
+"explanation": "Detergents do not form insoluble scum with Ca²⁺ or Mg²⁺."
+},
+{
+"question": "The gas responsible for most explosions in coal mines is",
+"options": ["butane", "ethene", "ethane", "methane"],
+"answer": 3,
+"explanation": "Methane forms explosive mixtures with air."
+},
+{
+"question": "Polyvinyl chloride (PVC) is commonly used for making",
+"options": ["bread", "pencils", "ink", "pipes"],
+"answer": 3,
+"explanation": "PVC is widely used for water pipes."
+},
+{
+"question": "Fermentation is the",
+"options": [
+"breaking of carbohydrate to glucose",
+"conversion of sugar to alcohol in presence of yeast",
+"breaking sugar to carbohydrate",
+"conversion of alcohol to sugar"
+],
+"answer": 1,
+"explanation": "Yeast converts sugars into ethanol and carbon dioxide."
+},
+{
+"question": "Alcohols are soluble in water mainly because of",
+"options": ["hydrogen bonding", "covalent nature", "ionic character", "boiling point"],
+"answer": 0,
+"explanation": "Hydrogen bonding occurs between alcohol and water molecules."
+},
+{
+"question": "Which of the following compounds belongs to the carboxylic acid family?",
+"options": ["ethanol","ethanoic acid","ethanal","ethene"],
+"answer": 1,
+"explanation": "Carboxylic acids contain the –COOH functional group."
+},
+{
+"question": "Which of the following compounds will not undergo addition reaction?",
+"options": ["ethene","ethyne","benzene","ethane"],
+"answer": 3,
+"explanation": "Ethane is saturated and typically undergoes substitution rather than addition."
+},
+{
+"question": "Which of the following compounds gives a positive Tollens' test?",
+"options": ["ethanol","ethanal","ethanoic acid","acetone"],
+"answer": 1,
+"explanation": "Aldehydes reduce Tollens' reagent producing a silver mirror."
+},
+{
+"question": "The main component of natural gas is",
+"options": ["ethane","propane","methane","butane"],
+"answer": 2,
+"explanation": "Methane forms the largest percentage of natural gas."
+},
+{
+"question": "Which of the following polymers is produced from styrene?",
+"options": ["polythene","polystyrene","nylon","PVC"],
+"answer": 1,
+"explanation": "Styrene polymerizes to form polystyrene."
+},
+{
+"question": "Which of the following compounds will react with sodium carbonate solution?",
+"options": ["ethanol","ethanoic acid","ethene","benzene"],
+"answer": 1,
+"explanation": "Carboxylic acids react with carbonates producing CO₂."
+},
+{
+"question": "Which of the following functional groups is present in alcohols?",
+"options": ["–COOH","–CHO","–OH","–CO–"],
+"answer": 2,
+"explanation": "Alcohols contain the hydroxyl (–OH) functional group."
+},
+{
+"question": "Which of the following compounds is saturated?",
+"options": ["ethene","ethyne","ethane","benzene"],
+"answer": 2,
+"explanation": "Ethane contains only single bonds."
+},
+{
+"question": "Which of the following compounds belongs to the ketone family?",
+"options": ["ethanal","ethanol","propanone","ethanoic acid"],
+"answer": 2,
+"explanation": "Propanone (acetone) is a ketone."
+},
+{
+"question": "Which of the following is the monomer of PVC?",
+"options": ["ethene","chloroethene","propene","styrene"],
+"answer": 1,
+"explanation": "PVC is produced from chloroethene (vinyl chloride)."
+},
+{
+"question": "Which of the following compounds is an ester?",
+"options": ["ethyl ethanoate","ethanol","ethanoic acid","ethanal"],
+"answer": 0,
+"explanation": "Ethyl ethanoate is formed from ethanol and ethanoic acid."
+},
+{
+"question": "Which of the following is the functional group of aldehydes?",
+"options": ["–CHO","–COOH","–OH","–CO–"],
+"answer": 0,
+"explanation": "Aldehydes contain the –CHO functional group."
+},
+{
+"question": "Which of the following compounds forms soap when reacted with NaOH?",
+"options": ["fats","alkanes","alkenes","alcohols"],
+"answer": 0,
+"explanation": "Saponification occurs when fats react with NaOH."
+},
+{
+"question": "Which of the following hydrocarbons has a triple bond?",
+"options": ["ethene","ethyne","ethane","benzene"],
+"answer": 1,
+"explanation": "Alkynes contain a C≡C triple bond."
+},
+{
+"question": "Which of the following compounds is aromatic?",
+"options": ["benzene","ethane","ethene","ethanol"],
+"answer": 0,
+"explanation": "Benzene is an aromatic hydrocarbon."
+},
+{
+"question": "Which of the following processes converts large hydrocarbons into smaller ones?",
+"options": ["cracking","polymerization","hydrogenation","oxidation"],
+"answer": 0,
+"explanation": "Cracking breaks long hydrocarbon chains into smaller molecules."
+},
+{
+"question": "Which of the following compounds reacts with bromine water?",
+"options": ["ethene","ethane","methane","propane"],
+"answer": 0,
+"explanation": "Ethene decolourizes bromine water due to addition reaction."
+},
+{
+"question": "Which of the following compounds contains the hydroxyl functional group?",
+"options": ["ethanol","ethanal","ethene","ethanoic acid"],
+"answer": 0,
+"explanation": "Alcohols contain the –OH group."
+},
+{
+"question": "Which of the following polymers is formed by addition polymerization?",
+"options": ["nylon","polythene","terylene","bakelite"],
+"answer": 1,
+"explanation": "Polythene is formed by addition polymerization of ethene."
+},
+{
+"question": "Which of the following compounds is the simplest alkane?",
+"options": ["methane","ethane","propane","butane"],
+"answer": 0,
+"explanation": "Methane is the first member of the alkane homologous series."
+},
+{
+"question": "Which of the following hydrocarbons undergoes addition reactions readily?",
+"options": ["methane","ethane","ethene","propane"],
+"answer": 2,
+"explanation": "Ethene contains a C=C double bond which easily undergoes addition reactions."
+},
+{
+"question": "The homologous series to which ethanol belongs is",
+"options": ["alkanes","alkenes","alkanols","alkanoic acids"],
+"answer": 2,
+"explanation": "Ethanol contains the –OH functional group and belongs to the alkanol series."
+},
+{
+"question": "Which of the following compounds will react with sodium metal to liberate hydrogen gas?",
+"options": ["ethanol","ethene","ethane","benzene"],
+"answer": 0,
+"explanation": "Alcohols react with sodium metal producing hydrogen gas."
+},
+{
+"question": "A compound that contains the functional group –COO– is known as",
+"options": ["ketone","ester","aldehyde","ether"],
+"answer": 1,
+"explanation": "Esters contain the –COO– functional group."
+},
+{
+"question": "Which of the following is used as a catalyst in hydrogenation of vegetable oils?",
+"options": ["nickel","copper","iron","silver"],
+"answer": 0,
+"explanation": "Nickel catalyst is commonly used in hydrogenation reactions."
+},
+{
+"question": "Which of the following compounds is unsaturated?",
+"options": ["methane","ethane","ethene","propane"],
+"answer": 2,
+"explanation": "Ethene contains a double bond making it unsaturated."
+},
+{
+"question": "Benzene reacts with chlorine in the presence of sunlight to form",
+"options": ["benzene hexachloride","chlorobenzene","benzaldehyde","benzene oxide"],
+"answer": 0,
+"explanation": "Under sunlight benzene forms benzene hexachloride."
+},
+{
+"question": "Which of the following is an example of a condensation polymer?",
+"options": ["polythene","PVC","nylon","polystyrene"],
+"answer": 2,
+"explanation": "Nylon forms through condensation polymerization."
+},
+{
+"question": "The general formula of alkenes is",
+"options": ["CnH2n+2","CnH2n","CnH2n−2","CnH2n+1OH"],
+"answer": 1,
+"explanation": "Alkenes follow the formula CnH2n."
+},
+{
+"question": "Which of the following is produced during fermentation?",
+"options": ["methanol","ethanol","propane","butane"],
+"answer": 1,
+"explanation": "Fermentation converts sugars into ethanol."
+},
+{
+"question": "The product formed when ethene reacts with steam in the presence of phosphoric acid is",
+"options": ["ethanol","ethanoic acid","ethanal","ethyne"],
+"answer": 0,
+"explanation": "Hydration of ethene produces ethanol."
+},
+{
+"question": "Which of the following compounds will decolourize bromine water?",
+"options": ["ethane","ethene","propane","methane"],
+"answer": 1,
+"explanation": "Alkenes decolourize bromine water due to addition reaction."
+},
+{
+"question": "Soap is produced by the reaction between fats and",
+"options": ["acid","alkali","salt","alcohol"],
+"answer": 1,
+"explanation": "Saponification involves fats reacting with alkali."
+},
+{
+"question": "Which of the following compounds belongs to the aldehyde group?",
+"options": ["ethanal","ethanol","ethanoic acid","ethene"],
+"answer": 0,
+"explanation": "Ethanal contains the –CHO functional group."
+},
+{
+"question": "Which of the following is used in the manufacture of margarine?",
+"options": ["hydrogenation","cracking","polymerization","oxidation"],
+"answer": 0,
+"explanation": "Hydrogenation converts vegetable oils to margarine."
+},
+{
+"question": "The functional group present in ketones is",
+"options": ["–OH","–CHO","–CO–","–COOH"],
+"answer": 2,
+"explanation": "Ketones contain the carbonyl group –CO– within the carbon chain."
+},
+{
+"question": "Which of the following compounds is an alkyne?",
+"options": ["ethane","ethene","ethyne","ethanol"],
+"answer": 2,
+"explanation": "Ethyne contains a triple bond characteristic of alkynes."
+},
+{
+"question": "The simplest aromatic hydrocarbon is",
+"options": ["methane","ethene","benzene","ethane"],
+"answer": 2,
+"explanation": "Benzene is the simplest aromatic hydrocarbon."
+},
+{
+"question": "Which of the following compounds can undergo polymerization to form polythene?",
+"options": ["ethene","ethane","ethanol","ethanoic acid"],
+"answer": 0,
+"explanation": "Polythene is formed from ethene monomers."
+},
+{
+"question": "The reaction of an ester with water in the presence of acid is called",
+"options": ["hydrolysis","esterification","polymerization","hydrogenation"],
+"answer": 0,
+"explanation": "Hydrolysis breaks esters into alcohols and acids."
+},
+{
+  "question": "Magnesium ribbon was allowed to burn inside a given gas P leaving a white solid residue Q. Addition of water to Q liberated a gas which produced dense white fumes with a drop of hydrochloric acid. The gas P was",
+  "options": ["Nitrogen", "Chlorine", "Oxygen", "Sulphur (IV) oxide"],
+  "answer": 0,
+  "explanation": "Magnesium burns in nitrogen to form magnesium nitride. When water is added, ammonia gas is released which forms dense white fumes with HCl."
+},
+{
+  "question": "Which of the following elements will form an oxide which will dissolve both dilute HNO3 and NaOH solutions to form salts?",
+  "options": ["Al", "Mg", "Ag", "Mn"],
+  "answer": 0,
+  "explanation": "Aluminium oxide is amphoteric and dissolves in both acids and bases."
+},
+{
+  "question": "Stainless steel is an alloy of",
+  "options": ["Iron, carbon and silver", "Iron, carbon and lead", "Iron, carbon and chromium", "Iron and carbon only"],
+  "answer": 2,
+  "explanation": "Stainless steel contains iron, carbon and chromium which improves corrosion resistance."
+},
+{
+  "question": "Alloys are best prepared by",
+  "options": [
+    "High temperature arc welding of the metals",
+    "Electrolysis using the major metallic component as cathode",
+    "Reducing a mixture of the oxides of the elements",
+    "Cooling a molten mixture of the necessary elements"
+  ],
+  "answer": 3,
+  "explanation": "Alloys are formed by melting the component metals together and allowing the mixture to cool."
+},
+{
+  "question": "The thermal decomposition of copper (II) trioxonitrate (V) yields copper (II) oxide, oxygen and",
+  "options": [
+    "Nitrogen (II) oxide",
+    "Nitrogen (I) oxide",
+    "Nitrogen (IV) oxide",
+    "Nitrogen"
+  ],
+  "answer": 2,
+  "explanation": "Copper(II) nitrate decomposes to CuO, NO2 and O2 when heated."
+},
+{
+  "question": "Which of the following is used in the manufacture of glass?",
+  "options": [
+    "Sodium chloride",
+    "Sodium trioxocarbonate (IV)",
+    "Sodium tetraoxosulphate (VI)",
+    "Sodium trioxonitrate (V)"
+  ],
+  "answer": 1,
+  "explanation": "Sodium carbonate (Na2CO3) is an important raw material in glass production."
+},
+{
+  "question": "Aluminium is extracted commercially from its ore by",
+  "options": [
+    "Heating aluminium oxide with coke in a furnace",
+    "The electrolysis of fused aluminium oxide in cryolite",
+    "Treating cryolite with sodium hydroxide solution under pressure",
+    "Heating sodium aluminium silicate to a high temperature"
+  ],
+  "answer": 1,
+  "explanation": "Aluminium is extracted by electrolysis of molten alumina dissolved in cryolite (Hall-Heroult process)."
+},
+{
+  "question": "Given the reactions: Fe(s) + X(NO2)(aq) → Fe(NO2)2(aq) + X(s); H2(g) + XO(s) → X(s) + H2O(g). X is likely to be",
+  "options": ["Copper", "Zinc", "Calcium", "Lead"],
+  "answer": 0,
+  "explanation": "Iron displaces copper from its salt, and hydrogen reduces copper oxide to copper."
+},
+{
+  "question": "The gaseous pollutant sulphur (IV) oxide is most likely to be detected in fairly reasonable quantities in the area around a plant for the",
+  "options": [
+    "Extraction of aluminium from bauxite",
+    "Production of margarine",
+    "Smelting of copper",
+    "Production of chlorine from brine"
+  ],
+  "answer": 2,
+  "explanation": "Sulphur dioxide is commonly produced during the smelting of sulphide ores such as copper ores."
+},
+{
+  "question": "Which of the following represents the balanced equation for the reaction of copper with concentrated trioxonitrate (V) acid?",
+  "options": [
+    "Cu + 2HNO3 → Cu(NO3)2 + H2",
+    "Cu + 4HNO3 → Cu(NO3)2 + 2H2O + 2NO2",
+    "3Cu + 8HNO3 → 3Cu(NO3)2 + 4H2O + 2NO",
+    "3Cu + 4HNO3 → Cu(NO3)2 + 2H2O + 2NO"
+  ],
+  "answer": 1,
+  "explanation": "Copper reacts with concentrated nitric acid producing copper nitrate, nitrogen dioxide and water."
+},
+{
+  "question": "A metal is extracted from its ore by the electrolysis of its molten chloride and it displaces lead from lead (II) trioxonitrate (V) solution. The metal is",
+  "options": ["Copper", "Aluminium", "Zinc", "Sodium"],
+  "answer": 3,
+  "explanation": "Sodium is very reactive and extracted by electrolysis of molten sodium chloride."
+},
+{
+  "question": "Mortar is NOT used for underwater construction because",
+  "options": [
+    "It hardens by loss of water",
+    "Its hardening does not depend upon evaporation",
+    "It requires concrete to harden",
+    "It will be washed away by the flow of water"
+  ],
+  "answer": 0,
+  "explanation": "Mortar hardens by evaporation of water, which cannot occur underwater."
+},
+{
+  "question": "Which of the following is NOT involved in the extraction of metals from their ores?",
+  "options": [
+    "Reduction with carbon",
+    "Reduction with other metals",
+    "Reduction by electrolysis",
+    "Oxidation with oxidizing agent"
+  ],
+  "answer": 3,
+  "explanation": "Metal extraction generally involves reduction processes rather than oxidation."
+},
+{
+  "question": "Which of the following metals will liberate hydrogen from steam or dilute acid?",
+  "options": ["Copper", "Iron", "Lead", "Mercury"],
+  "answer": 1,
+  "explanation": "Iron reacts with steam and dilute acids to produce hydrogen gas."
+},
+{
+  "question": "The major component of the slag from the production of iron is",
+  "options": [
+    "An alloy of calcium and iron",
+    "Coke",
+    "Impure iron",
+    "Calcium trioxosilicate (IV)"
+  ],
+  "answer": 3,
+  "explanation": "Calcium oxide reacts with silica impurities to form calcium silicate slag."
+},
+{
+  "question": "To make coloured glasses, small quantities of oxides of metals which form coloured silicates are often added to the reaction mixture consisting of Na2CO3 and SiO2. Such a metal is",
+  "options": ["Potassium", "Barium", "Zinc", "Copper"],
+  "answer": 3,
+  "explanation": "Copper compounds are used to impart colour to glass."
+},
+{
+  "question": "Which of the following compounds gives a yellow residue when heated and also reacts with aqueous sodium hydroxide to give a white gelatinous precipitate soluble in excess sodium hydroxide solution?",
+  "options": ["(NH4)2CO3", "ZnCO3", "Al2(SO4)3", "PbCO3"],
+  "answer": 3,
+  "explanation": "Lead carbonate forms yellow lead oxide when heated and forms amphoteric hydroxide with NaOH."
+},
+{
+  "question": "Addition of aqueous ammonia to a solution of Zn2+ gives a white precipitate which dissolves in excess ammonia because",
+  "options": [
+    "Zinc is amphoteric",
+    "Zinc hydroxide is readily soluble",
+    "Zinc forms a complex which is readily soluble in excess ammonia",
+    "Ammonia solution is a strong base"
+  ],
+  "answer": 2,
+  "explanation": "Excess ammonia forms a soluble complex ion [Zn(NH3)4]2+ with zinc."
+},
+{
+  "question": "Copper (II) tetraoxosulphate (VI) is widely used as a",
+  "options": ["Fertilizer", "Fungicide", "Disinfectant", "Purifier"],
+  "answer": 1,
+  "explanation": "Copper (II) sulphate is commonly used as a fungicide in agriculture."
+},
+{
+  "question": "Which of the following metals can be prepared in the laboratory by the thermal decomposition of their trioxonitrate (V) salts?",
+  "options": [
+    "Copper and mercury",
+    "Silver and copper",
+    "Mercury and silver",
+    "Magnesium and mercury"
+  ],
+  "answer": 2,
+  "explanation": "Mercury and silver nitrates decompose on heating to produce the metals."
+},
+{
+  "question": "There is a large temperature interval between the melting point and the boiling point of a metal because",
+  "options": [
+    "Metals have very high melting points",
+    "Metals conduct heat very rapidly",
+    "Melting does not break the metallic bond but boiling does",
+    "The crystal lattice of metals is easily broken"
+  ],
+  "answer": 2,
+  "explanation": "Melting weakens metallic bonds while boiling completely breaks them."
+},
+{
+  "question": "Which of the following combinations of gases is used for metal welding?",
+  "options": [
+    "Oxygen and ethyne",
+    "Hydrogen and ethyne",
+    "Hydrogen and oxygen",
+    "Ethyne, hydrogen and oxygen"
+  ],
+  "answer": 0,
+  "explanation": "Oxy-acetylene (oxygen and ethyne) flame produces very high temperatures used in welding."
+},
+{
+  "question": "Addition of an aqueous solution of barium chloride to the aqueous solution of a salt gives a white precipitate. The salt is likely to be a",
+  "options": ["Nitrate", "Carbonate", "Chloride", "Sulphide"],
+  "answer": 1,
+  "explanation": "Barium chloride reacts with carbonates to form insoluble barium carbonate."
+},
+{
+  "question": "Sodium hydroxide solution can be conveniently stored in a container made of",
+  "options": ["Lead", "Zinc", "Aluminium", "Copper"],
+  "answer": 0,
+  "explanation": "Lead is resistant to attack by sodium hydroxide solution."
+},
+{
+  "question": "Which of the following is NOT used as a raw material in the Solvay process?",
+  "options": [
+    "Ammonia",
+    "Sodium chloride",
+    "Calcium trioxocarbonate (IV)",
+    "Sodium trioxocarbonate (IV)"
+  ],
+  "answer": 3,
+  "explanation": "Sodium carbonate is the product of the Solvay process, not a raw material."
+},
+{
+  "question": "Duralumin consists of aluminium, copper and",
+  "options": [
+    "Zinc and gold",
+    "Lead and manganese",
+    "Nickel and silver",
+    "Manganese and magnesium"
+  ],
+  "answer": 3,
+  "explanation": "Duralumin is mainly aluminium alloyed with copper, magnesium and manganese."
+},
+{
+  "question": "CaO + H2O → Ca(OH)2 ; ΔH = -65kJ. The process represented by the above equation is known as",
+  "options": ["Dissolution", "Slaking", "Liming", "Mortaring"],
+  "answer": 1,
+  "explanation": "The reaction of quicklime with water to form slaked lime is called slaking."
+},
+{
+  "question": "Bronze is an alloy of",
+  "options": [
+    "Silver and gold",
+    "Silver and gold",
+    "Copper and nickel",
+    "Copper and zinc"
+  ],
+  "answer": 3,
+  "explanation": "Bronze is primarily an alloy of copper and tin (closest option provided is copper alloy)."
+},
+{
+  "question": "Copper metal will react with concentrated trioxonitrate (V) acid to give",
+  "options": [
+    "Cu(NO3)2 + NO + NO + H2O",
+    "Cu(NO3)2 + NO + H2O",
+    "CuO + NO2 + H2O",
+    "Cu(NO3)2 + NO2 + H2O"
+  ],
+  "answer": 3,
+  "explanation": "Copper reacts with concentrated nitric acid producing copper nitrate, nitrogen dioxide and water."
+},
+{
+  "question": "The active reducing agent in the blast furnace for the extraction of iron is",
+  "options": [
+    "Carbon",
+    "Limestone",
+    "Carbon (II) oxide",
+    "Calcium oxide"
+  ],
+  "answer": 2,
+  "explanation": "Carbon monoxide reduces iron(III) oxide to iron in the blast furnace."
+},
+{
+  "question": "Which of the following is NOT true of metals?",
+  "options": [
+    "They are good conductors of electricity",
+    "They ionize by electron loss",
+    "Their oxides are acidic",
+    "They have high melting points"
+  ],
+  "answer": 2,
+  "explanation": "Most metal oxides are basic rather than acidic."
+},
+{
+  "question": "Which of the following is the correct order of decreasing activity of the metals Fe, Ca, Al and Na?",
+  "options": [
+    "Fe > Ca > Al > Na",
+    "Na > Ca > Al > Fe",
+    "Al > Fe > Na > Ca",
+    "Ca > Na > Fe > Al"
+  ],
+  "answer": 1,
+  "explanation": "In the reactivity series sodium is most reactive followed by calcium, aluminium and iron."
+},
+{
+  "question": "Which of the following ions will give a white precipitate with aqueous NaOH and is soluble in excess base?",
+  "options": ["Ca2+", "Mg2+", "Zn2+", "Cu2+"],
+  "answer": 2,
+  "explanation": "Zinc hydroxide is amphoteric and dissolves in excess sodium hydroxide."
+},
+{
+  "question": "In the extraction of iron in the blast furnace, limestone is used to",
+  "options": [
+    "Release CO2 for the reaction",
+    "Reduce the iron ore",
+    "Increase the strength of iron",
+    "Remove impurities"
+  ],
+  "answer": 3,
+  "explanation": "Limestone decomposes to CaO which reacts with silica impurities to form slag."
+},
+{
+  "question": "Which of the following compounds will impart a brick-red colour to a non-luminous Bunsen flame?",
+  "options": ["NaCl", "LiCl", "CaCl2", "MgCl2"],
+  "answer": 2,
+  "explanation": "Calcium ions produce a brick-red flame in flame tests."
+},
+{
+  "question": "Group IA metals are not found free in nature because they",
+  "options": [
+    "Are of low melting and boiling points",
+    "Have weak metallic bonding",
+    "Conduct electricity and heat",
+    "Are very reactive"
+  ],
+  "answer": 3,
+  "explanation": "Alkali metals react readily with water and oxygen so they occur only as compounds."
+},
+{
+  "question": "The removal of rust from iron by treatment with tetraoxosulphate (VI) acid is based on the",
+  "options": [
+    "Hydrolysis of the iron",
+    "Reaction of acid with base",
+    "Oxidation of the rust",
+    "Dehydration of the iron"
+  ],
+  "answer": 1,
+  "explanation": "Rust (iron oxide) reacts with acid in an acid-base reaction to form soluble salts."
+},
+{
+  "question": "Which of the following additives could improve the quality of steel?",
+  "options": ["Silicon", "Sulphur and phosphorus", "Carbon", "Chromium and nickel"],
+  "answer": 3,
+  "explanation": "Chromium and nickel improve the strength and corrosion resistance of steel."
+},
+{
+  "question": "Sodium hydroxide is prepared commercially from sodium chloride solution by",
+  "options": [
+    "Electrolysis using mercury as cathode",
+    "Hydrolysis in steam using a catalyst",
+    "Electrolysis using iron as anode",
+    "Treating sodium chloride with ammonia and carbon (IV) oxide"
+  ],
+  "answer": 0,
+  "explanation": "The chlor-alkali process uses electrolysis of brine with mercury cathode."
+},
+{
+  "question": "The soil around a battery-manufacturing factory is likely to contain a high concentration of",
+  "options": ["Calcium salts", "Lead salts", "Magnesium salts", "Aluminium salts"],
+  "answer": 1,
+  "explanation": "Lead is commonly used in batteries and may contaminate nearby soil."
+},
+{
+  "question": "The metal that will react with water only in the form of steam to liberate hydrogen gas is",
+  "options": ["Calcium", "Aluminium", "Iron", "Zinc"],
+  "answer": 3,
+  "explanation": "Zinc reacts with steam to produce zinc oxide and hydrogen."
+},
+{
+  "question": "A common characteristic shared by iron and aluminium is that both",
+  "options": [
+    "Are extracted by reduction methods",
+    "Form only basic oxides",
+    "Show oxidation states of +2 and +3",
+    "Form soluble hydroxides"
+  ],
+  "answer": 0,
+  "explanation": "Both metals are obtained by reduction during extraction."
+},
+{
+  "question": "Alloys are often used in preference to pure metals because",
+  "options": [
+    "Metals are too hard",
+    "Metals are ductile",
+    "Metallic properties are improved in alloys",
+    "Alloys are mixtures of metals"
+  ],
+  "answer": 2,
+  "explanation": "Alloys improve properties like strength, hardness and corrosion resistance."
+},
+{
+  "question": "The pair of metals in the reactivity series that are usually extracted by the electrolysis of their ores is",
+  "options": [
+    "Magnesium and zinc",
+    "Magnesium and calcium",
+    "Copper and zinc",
+    "Lead and calcium"
+  ],
+  "answer": 1,
+  "explanation": "Highly reactive metals like magnesium and calcium are extracted by electrolysis."
+},
+{
+  "question": "What properties of duralumin make it more useful than its constituent metals?",
+  "options": [
+    "It is heavy with a high melting point",
+    "It is malleable and has high density",
+    "It is strong and light",
+    "It is hard and ductile"
+  ],
+  "answer": 2,
+  "explanation": "Duralumin is valued for its high strength and low weight."
+},
+{
+  "question": "Which of the following metals is passive to concentrated trioxonitrate (V) acid?",
+  "options": ["Iron", "Tin", "Copper", "Zinc"],
+  "answer": 0,
+  "explanation": "Iron becomes passive due to formation of a protective oxide layer."
+},
+{
+  "question": "A metal that can be extracted from cassiterite is",
+  "options": ["Calcium", "Magnesium", "Tin", "Copper"],
+  "answer": 2,
+  "explanation": "Cassiterite is the principal ore of tin."
+},
+{
+  "question": "Which of the compounds is composed of Al, Si, O and H?",
+  "options": ["Clay", "Limestone", "Epsom salt", "Urea"],
+  "answer": 0,
+  "explanation": "Clay consists mainly of hydrated aluminium silicates."
+},
+{
+  "question": "Water molecules can be ligands especially when they are bonded to",
+  "options": [
+    "Alkaline earth metals",
+    "Transition metals",
+    "Alkali metals",
+    "Group VII elements"
+  ],
+  "answer": 1,
+  "explanation": "Water commonly acts as a ligand forming complexes with transition metals."
+},
+{
+  "question": "Haematite is an ore of",
+  "options": ["Iron", "Lead", "Zinc", "Copper"],
+  "answer": 0,
+  "explanation": "Haematite (Fe2O3) is a major ore of iron."
+},
+{
+  "question": "A common characteristic of copper and silver in their usage as coinage metals is that they",
+  "options": [
+    "Are not easily oxidized",
+    "Have high metallic luster",
+    "Are easily oxidized",
+    "Are not easily reduced"
+  ],
+  "answer": 0,
+  "explanation": "Both metals resist corrosion and oxidation."
+},
+{
+  "question": "The least easily oxidized of the metals below is",
+  "options": ["Ca", "Al", "Zn", "Na"],
+  "answer": 2,
+  "explanation": "Zinc is less reactive compared with sodium and calcium."
+},
+{
+  "question": "Potassium vapour burns with a",
+  "options": ["Violet flame", "Brick-red flame", "Blue flame", "Golden-yellow flame"],
+  "answer": 0,
+  "explanation": "Potassium produces a characteristic lilac/violet flame."
+},
+{
+  "question": "The main impurity in iron ore during the extraction of iron is",
+  "options": [
+    "Silicon (IV) oxide",
+    "Carbon (IV) oxide",
+    "Calcium trioxosilicate",
+    "Sulphur (II) oxide"
+  ],
+  "answer": 0,
+  "explanation": "Silica (SiO2) is the major impurity removed as slag."
+},
+{
+  "question": "Which of the following gives a precipitate when treated with NaOH solution?",
+  "options": ["Na2CO3", "CH3COONa", "NH4Cl", "AlCl3"],
+  "answer": 3,
+  "explanation": "Aluminium chloride reacts with NaOH forming aluminium hydroxide precipitate."
+},
+{
+  "question": "From the following electron configurations: I. H = 1s1, II. N = 1s2 2s2 2p3, III. O = 1s2 2s2 2p4, IV. Zn = 1s2 2s2 2p6 3s2 3p6 3d10 4s2. Which pair is likely to be paramagnetic?",
+  "options": ["I and II", "I and III", "I and IV", "III and IV"],
+  "answer": 1,
+  "explanation": "Paramagnetic species contain unpaired electrons. Hydrogen and oxygen have unpaired electrons."
+},
+{
+  "question": "Metals of the first transition series have special properties which are different from those of groups I and II elements because they have partially filled",
+  "options": ["s orbitals", "p orbitals", "d orbitals", "f orbitals"],
+  "answer": 2,
+  "explanation": "Transition metals have partially filled d-orbitals."
+},
+{
+  "question": "Hydrogen can be displaced from a hot alkaline solution by",
+  "options": ["Fe", "Cu", "Ca", "Sn"],
+  "answer": 2,
+  "explanation": "Calcium reacts with hot alkaline solutions to liberate hydrogen."
+},
+{
+  "question": "The metal that liberates hydrogen from cold water in bubbles only is",
+  "options": ["Na", "K", "Ca", "Al"],
+  "answer": 2,
+  "explanation": "Calcium reacts slowly with cold water producing hydrogen bubbles."
+},
+{
+  "question": "The modern process of manufacturing steel from iron is by",
+  "options": ["Treatment with acids", "Oxidation", "Blast reduction", "Treatment with alkalis"],
+  "answer": 1,
+  "explanation": "Steel is produced by oxidizing impurities from molten iron in the basic oxygen process."
+},
+{
+  "question": "Aluminium hydroxide is used in the dyeing industry as a",
+  "options": ["Salt", "Dye", "Mordant", "Dispersant"],
+  "answer": 2,
+  "explanation": "Aluminium hydroxide acts as a mordant helping dyes bind to fabric."
+},
+{
+  "question": "Alloys are best prepared by",
+  "options": [
+    "Electroplating",
+    "Arc-welding",
+    "Reducing a mixture of their metallic oxides",
+    "Cooling a molten mixture of the metals"
+  ],
+  "answer": 3,
+  "explanation": "Alloys are generally formed by melting and mixing metals then cooling."
+},
+{
+  "question": "Transition metals possess variable oxidation states because they have",
+  "options": [
+    "Electrons in the d orbitals",
+    "Electrons in the s orbitals",
+    "A variable number of electrons in the p orbitals",
+    "Partially filled p orbitals"
+  ],
+  "answer": 0,
+  "explanation": "Variable oxidation states arise from partially filled d orbitals."
+},
+{
+  "question": "Sodium metal is always kept under oil because it",
+  "options": [
+    "Readily reacts with water",
+    "Is reduced by atmospheric nitrogen",
+    "Reacts vigorously on exposure to air",
+    "Reacts with oxygen and carbon (IV) oxide"
+  ],
+  "answer": 2,
+  "explanation": "Sodium reacts vigorously with oxygen and moisture in air."
+},
+{
+  "question": "In a flame test for calcium, the flame appears",
+  "options": [
+    "Blue when viewed through blue glass",
+    "Green when viewed through blue glass",
+    "Orange-red when viewed through blue glass",
+    "Brick-red when viewed through blue glass"
+  ],
+  "answer": 3,
+  "explanation": "Calcium produces a brick-red flame."
+},
+{
+  "question": "Which of the following alloys contains iron?",
+  "options": [
+    "Steel and permalloy",
+    "Duralumin and steel",
+    "Soft solder and duralumin",
+    "Brass and bronze"
+  ],
+  "answer": 0,
+  "explanation": "Steel and permalloy are iron-based alloys."
+},
+{
+  "question": "Metalloids are also referred to as",
+  "options": ["Metals", "Semi-metals", "Colloids", "Non-metals"],
+  "answer": 1,
+  "explanation": "Metalloids are commonly called semi-metals."
+},
+{
+  "question": "The ores that can be concentrated by flotation are",
+  "options": ["Nitride ores", "Chloride ores", "Oxide ores", "Sulphide ores"],
+  "answer": 3,
+  "explanation": "Froth flotation is commonly used for sulphide ores."
+},
+{
+  "question": "The most suitable metal that can be used as a lightning conductor is",
+  "options": ["Aluminium", "Iron", "Copper", "Silver"],
+  "answer": 2,
+  "explanation": "Copper is commonly used due to its high conductivity and durability."
+},
+{
+  "question": "When pure aluminium is heated to red hot in nitrogen gas, the compound formed is",
+  "options": ["AlN", "AlN2", "Al3N", "Al2N3"],
+  "answer": 0,
+  "explanation": "Aluminium reacts with nitrogen forming aluminium nitride (AlN)."
+},
+{
+  "question": "The air around smelting industries is likely to contain",
+  "options": [
+    "CO2, SO2 and H2",
+    "SO2, N2 and CO2",
+    "H2, SO2 and CO2",
+    "H2S, CO and N2"
+  ],
+  "answer": 1,
+  "explanation": "Smelting of sulphide ores releases sulphur dioxide and carbon dioxide."
+},
+{
+  "question": "Group IA metals are not found free in nature because they",
+  "options": [
+    "Have high melting and boiling points",
+    "Conduct heat and electricity",
+    "Are very reactive and unstable",
+    "Are malleable and ductile"
+  ],
+  "answer": 2,
+  "explanation": "Alkali metals react readily with water and oxygen."
+},
+{
+  "question": "The characteristic colour of the flame shown when a copper salt is introduced into a Bunsen burner is",
+  "options": ["Green", "Lilac", "Yellow", "Brick-red"],
+  "answer": 0,
+  "explanation": "Copper salts produce a green flame."
+},
+{
+  "question": "The ion that will give a white precipitate with aqueous NaOH and is soluble in excess base is",
+  "options": ["Zn2+", "Mg2+", "Ca2+", "Cu2+"],
+  "answer": 0,
+  "explanation": "Zinc hydroxide dissolves in excess NaOH due to its amphoteric nature."
+},
+{
+  "question": "When calcium oxide is heated with carbon, the oxide will",
+  "options": [
+    "Decompose to the metal",
+    "Be converted to the carbide",
+    "Melt producing carbon (IV) oxide",
+    "Be converted to the trioxocarbonate (IV)"
+  ],
+  "answer": 1,
+  "explanation": "Calcium oxide reacts with carbon to produce calcium carbide."
+},
+{
+  "question": "Copper and silver metals are commonly used as coins because they are",
+  "options": [
+    "Not easily reduced",
+    "Not easily oxidized",
+    "Easily reduced",
+    "Easily oxidized"
+  ],
+  "answer": 1,
+  "explanation": "They resist corrosion and oxidation."
+},
+{
+  "question": "Which of the following sets of metals dissolves in dilute HCl?",
+  "options": [
+    "Mg, Fe and Cu",
+    "Mg, Sn and Fe",
+    "Cu, Mg and Sn",
+    "Fe, Sn and Cu"
+  ],
+  "answer": 1,
+  "explanation": "Copper does not react with dilute hydrochloric acid."
+},
+{
+  "question": "The soft solder used for welding and plumbing is an alloy of",
+  "options": [
+    "Lead and zinc",
+    "Iron and zinc",
+    "Iron and tin",
+    "Lead and tin"
+  ],
+  "answer": 3,
+  "explanation": "Soft solder is an alloy of lead and tin."
+},
+{
+  "question": "The substance used in the steel industry for removing carbon, sulphur and phosphorus impurities from pig iron is",
+  "options": ["Oxygen", "Chlorine", "Nitrogen", "Hydrogen"],
+  "answer": 0,
+  "explanation": "Oxygen is blown through molten iron to oxidize impurities."
+},
+{
+  "question": "When ammonium trioxocarbonate (IV) is added to a salt solution and a white precipitate forms soluble in dilute HCl but insoluble in ethanoic acid, the ion present is",
+  "options": ["Ca2+", "Na+", "Zn2+", "K+"],
+  "answer": 0,
+  "explanation": "Calcium carbonate behaves this way in acid reactions."
+},
+{
+  "question": "Lead is used for making bullets because of its",
+  "options": [
+    "Resistance to corrosion",
+    "Low melting point",
+    "High density",
+    "Flexibility"
+  ],
+  "answer": 2,
+  "explanation": "Lead is dense and heavy, making it useful for bullets."
+},
+{
+  "question": "Which of the following gives a precipitate when treated with NaOH solution?",
+  "options": ["AlCl3", "NH4Cl", "Na2CO3", "CH3COONa"],
+  "answer": 0,
+  "explanation": "Aluminium chloride forms aluminium hydroxide precipitate."
+},
+{
+  "question": "The most common ores of iron include",
+  "options": [
+    "Haematite, malachite and limonite",
+    "Chalcocite, calamine and bornite",
+    "Magnetite, haematite and limonite",
+    "Malachite, chalcocite and bornite"
+  ],
+  "answer": 2,
+  "explanation": "These are major iron ores."
+},
+{
+  "question": "Which of the following metals will show the highest metallic character?",
+  "options": ["Zinc", "Copper", "Barium", "Calcium"],
+  "answer": 2,
+  "explanation": "Metallic character increases down a group; barium is highest here."
+},
+{
+  "question": "Copper metal dissolves in concentrated trioxonitrate (V) acid producing",
+  "options": ["CO2", "SO2", "NO2", "CO"],
+  "answer": 2,
+  "explanation": "Copper reacts with concentrated nitric acid releasing nitrogen dioxide."
+},
+{
+  "question": "The type of iron best suited for welding and making chains is",
+  "options": ["Pig iron", "Wrought iron", "Cast iron", "Iron pyrites"],
+  "answer": 1,
+  "explanation": "Wrought iron is tough and malleable."
+},
+{
+  "question": "In the electrolytic extraction of aluminium, molten cryolite functions to",
+  "options": [
+    "Precipitate aluminium hydroxide",
+    "Lower the melting point of alumina",
+    "Act as a raw material",
+    "Act as a solvent"
+  ],
+  "answer": 1,
+  "explanation": "Cryolite lowers melting point and improves conductivity."
+},
+{
+  "question": "A constituent common to bronze and solder is",
+  "options": ["Silver", "Copper", "Tin", "Lead"],
+  "answer": 2,
+  "explanation": "Tin is present in both alloys."
+},
+{
+  "question": "When iron rusts in moist air it forms",
+  "options": [
+    "Anhydrous iron(III) oxide",
+    "Anhydrous iron(II) oxide",
+    "Hydrated iron(II) oxide",
+    "Hydrated iron(III) oxide"
+  ],
+  "answer": 3,
+  "explanation": "Rust is hydrated iron(III) oxide."
+},
+{
+  "question": "A compound giving orange-red flame colour likely contains",
+  "options": ["Ca2+", "Fe2+", "Fe3+", "Na+"],
+  "answer": 0,
+  "explanation": "Calcium compounds give orange-red flame."
+},
+{
+  "question": "Stainless steel is used for making",
+  "options": ["Magnets", "Tools", "Coins and medals", "Moving parts of clocks"],
+  "answer": 1,
+  "explanation": "Stainless steel is hard and corrosion-resistant."
+},
+{
+  "question": "Bronze is preferred to copper in medals because it",
+  "options": [
+    "Can withstand low temperatures",
+    "Is lighter",
+    "Has low tensile strength",
+    "Is stronger"
+  ],
+  "answer": 3,
+  "explanation": "Bronze is stronger than pure copper."
+},
+{
+  "question": "Impurities such as carbon and sulphur in iron",
+  "options": [
+    "Make it malleable",
+    "Increase melting point",
+    "Lower melting point",
+    "Give high tensile strength"
+  ],
+  "answer": 2,
+  "explanation": "Impurities generally lower melting point."
+},
+{
+  "question": "If nitric acid produces a brown solution when added to a salt solution, the cation present is likely",
+  "options": ["Cu2+", "Fe2+", "Fe3+", "Pb2+"],
+  "answer": 2,
+  "explanation": "Ferric ions produce brown coloration."
+},
+{
+  "question": "A metal that displaces zinc from ZnCl2 solution is",
+  "options": [
+    "Electrons flow from zinc to M",
+    "M is more electropositive than zinc",
+    "M is more electronegative than zinc",
+    "Zinc is more electropositive"
+  ],
+  "answer": 1,
+  "explanation": "A more reactive metal displaces a less reactive one."
+},
+{
+  "question": "The compound that burns with brick-red flame is",
+  "options": ["LiCl", "NaCl", "CaCl2", "MgCl2"],
+  "answer": 2,
+  "explanation": "Calcium salts give brick-red flame."
+},
+{
+  "question": "The purest form of iron containing about 0.1% carbon is",
+  "options": ["Pig iron", "Wrought iron", "Cast iron", "Iron pyrite"],
+  "answer": 1,
+  "explanation": "Wrought iron contains very little carbon."
+},
+{
+  "question": "Zinc shares with other transition elements the ability to",
+  "options": [
+    "Have variable oxidation states",
+    "Form complexes",
+    "Act as catalysts",
+    "Form coloured ions"
+  ],
+  "answer": 1,
+  "explanation": "Zinc commonly forms complex ions."
+},
+{
+  "question": "Which of the following metals is the least reactive?",
+  "options": ["Pb", "Sn", "Hg", "Au"],
+  "answer": 3,
+  "explanation": "Gold is very unreactive."
+},
+{
+  "question": "A metal that forms soluble sulphite salt is",
+  "options": ["Aluminium", "Barium", "Potassium", "Manganese"],
+  "answer": 2,
+  "explanation": "Potassium forms soluble sulphite salts."
+},
+{
+  "question": "Copper is displaced from its salts by most metals because it",
+  "options": [
+    "Has filled 3d orbitals",
+    "Is low in the activity series",
+    "Is very reactive",
+    "Is a transition element"
+  ],
+  "answer": 1,
+  "explanation": "Copper is low in the reactivity series."
+},
+{
+  "question": "The coloured nature of transition metal ions is associated with partially filled",
+  "options": ["d orbitals", "f orbitals", "s orbitals", "p orbitals"],
+  "answer": 0,
+  "explanation": "d-d electron transitions produce colour."
+},
+{
+  "question": "Aluminium containers can transport nitric acid because aluminium",
+  "options": [
+    "Has silvery appearance",
+    "Has low density",
+    "Does not react with the acid",
+    "Does not corrode"
+  ],
+  "answer": 2,
+  "explanation": "Aluminium becomes passive in nitric acid."
+},
+{
+  "question": "A compound giving brick-red flame likely contains",
+  "options": ["Na+", "Ca2+", "Al3+", "Cu2+"],
+  "answer": 1,
+  "explanation": "Calcium ions produce brick-red flame."
+},
+{
+  "question": "In electrolytic extraction of calcium, the cathode is",
+  "options": ["Graphite", "Platinum", "Iron", "Zinc"],
+  "answer": 2,
+  "explanation": "Iron cathodes are commonly used."
+},
+{
+  "question": "A white precipitate with NaOH insoluble in excess indicates presence of",
+  "options": ["Pb2+", "Ca2+", "Al3+", "Zn2+"],
+  "answer": 1,
+  "explanation": "Calcium hydroxide precipitate does not dissolve in excess NaOH."
+},
+{
+  "question": "A common ore of iron is",
+  "options": ["Bauxite", "Galena", "Cassiterite", "Magnetite"],
+  "answer": 3,
+  "explanation": "Magnetite is an important iron ore."
+},
+{
+  "question": "Aluminium is used for electrical cables because of its",
+  "options": [
+    "Good conductivity",
+    "Silvery appearance",
+    "Malleability",
+    "High melting point"
+  ],
+  "answer": 0,
+  "explanation": "Aluminium is a good electrical conductor and lightweight."
+},
+{
+  "question": "The compound of calcium used for refractory furnace lining is",
+  "options": [
+    "Calcium oxide",
+    "Calcium nitrate",
+    "Calcium hydroxide",
+    "Calcium chloride"
+  ],
+  "answer": 0,
+  "explanation": "Calcium oxide (quicklime) is heat resistant and used in furnace linings."
+}
+]

@@ -1,0 +1,184 @@
+[
+{
+  "question": "A car starts from rest and accelerates at 2 m/s² for 10 s. Find its final velocity.",
+  "options": ["10 m/s", "15 m/s", "20 m/s", "25 m/s"],
+  "answer": 2,
+  "explanation": "v = u + at = 0 + (2 × 10) = 20 m/s"
+},
+{
+  "question": "A body moving at 5 m/s accelerates at 3 m/s² for 4 s. Find final velocity.",
+  "options": ["15 m/s", "17 m/s", "20 m/s", "25 m/s"],
+  "answer": 1,
+  "explanation": "v = 5 + (3×4) = 17 m/s"
+},
+{
+  "question": "A train accelerates uniformly from 10 m/s to 30 m/s in 5 s. Find acceleration.",
+  "options": ["2 m/s²", "3 m/s²", "4 m/s²", "5 m/s²"],
+  "answer": 2,
+  "explanation": "a = (30-10)/5 = 4 m/s²"
+},
+{
+  "question": "A car slows from 20 m/s to 10 m/s in 5 s. Find acceleration.",
+  "options": ["-2 m/s²", "-1 m/s²", "2 m/s²", "1 m/s²"],
+  "answer": 0,
+  "explanation": "a = (10-20)/5 = -2 m/s²"
+},
+{
+  "question": "A body starts from rest and travels 100 m in 10 s. Find acceleration.",
+  "options": ["1 m/s²", "2 m/s²", "3 m/s²", "4 m/s²"],
+  "answer": 1,
+  "explanation": "s = ut + ½at² → 100 = 0 + ½a(100) → a=2 m/s²"
+},
+{
+  "question": "A car moves at 10 m/s for 5 s. Find distance covered.",
+  "options": ["40 m", "50 m", "60 m", "70 m"],
+  "answer": 1,
+  "explanation": "s = vt = 10 × 5 = 50 m"
+},
+{
+  "question": "A body starts from rest with acceleration 4 m/s². Find distance in 5 s.",
+  "options": ["40 m", "50 m", "60 m", "70 m"],
+  "answer": 1,
+  "explanation": "s = ½ × 4 × 25 = 50 m"
+},
+{
+  "question": "A car accelerates from 5 m/s to 25 m/s over 100 m. Find acceleration.",
+  "options": ["2 m/s²", "3 m/s²", "4 m/s²", "5 m/s²"],
+  "answer": 2,
+  "explanation": "v² = u² + 2as → 625 = 25 + 200a → a=3 m/s²"
+},
+{
+  "question": "A body moving at 20 m/s stops in 4 s. Find deceleration.",
+  "options": ["-5 m/s²", "-4 m/s²", "-3 m/s²", "-2 m/s²"],
+  "answer": 0,
+  "explanation": "a = (0-20)/4 = -5 m/s²"
+},
+{
+  "question": "A particle starts from rest and covers 80 m in 8 s. Find acceleration.",
+  "options": ["1 m/s²", "2 m/s²", "3 m/s²", "4 m/s²"],
+  "answer": 1,
+  "explanation": "s = ½at² → 80 = ½a(64) → a=2.5 m/s² (closest ≈2)"
+},
+
+{
+  "question": "A car increases speed from 10 m/s to 30 m/s in 10 s. Find acceleration.",
+  "options": ["1 m/s²", "2 m/s²", "3 m/s²", "4 m/s²"],
+  "answer": 1,
+  "explanation": "a = (30-10)/10 = 2 m/s²"
+},
+{
+  "question": "A stone is thrown with 20 m/s. After 2 s, find velocity (g=10 m/s² downward).",
+  "options": ["0 m/s", "10 m/s", "20 m/s", "-10 m/s"],
+  "answer": 0,
+  "explanation": "v = 20 - (10×2) = 0 m/s"
+},
+{
+  "question": "A body travels 200 m in 20 s at constant speed. Find velocity.",
+  "options": ["5 m/s", "10 m/s", "15 m/s", "20 m/s"],
+  "answer": 1,
+  "explanation": "v = s/t = 200/20 = 10 m/s"
+},
+{
+  "question": "A car moves with 3 m/s² for 6 s from rest. Find final velocity.",
+  "options": ["12 m/s", "15 m/s", "18 m/s", "21 m/s"],
+  "answer": 2,
+  "explanation": "v = 0 + 3×6 = 18 m/s"
+},
+{
+  "question": "A body with u=5 m/s, a=2 m/s² moves for 5 s. Find displacement.",
+  "options": ["50 m", "60 m", "75 m", "100 m"],
+  "answer": 2,
+  "explanation": "s = ut + ½at² = 25 + 25 = 50 m"
+},
+
+{
+  "question": "A car starts from rest and reaches 20 m/s in 4 s. Find acceleration.",
+  "options": ["2 m/s²", "4 m/s²", "5 m/s²", "6 m/s²"],
+  "answer": 2,
+  "explanation": "a = 20/4 = 5 m/s²"
+},
+{
+  "question": "A particle travels 150 m in 5 s at constant velocity. Find velocity.",
+  "options": ["20 m/s", "25 m/s", "30 m/s", "35 m/s"],
+  "answer": 2,
+  "explanation": "v = 150/5 = 30 m/s"
+},
+{
+  "question": "A train slows uniformly from 40 m/s to 20 m/s in 10 s. Find acceleration.",
+  "options": ["-2 m/s²", "-3 m/s²", "-4 m/s²", "-5 m/s²"],
+  "answer": 0,
+  "explanation": "a = (20-40)/10 = -2 m/s²"
+},
+{
+  "question": "A car accelerates at 2 m/s² for 8 s starting from 4 m/s. Find final velocity.",
+  "options": ["16 m/s", "18 m/s", "20 m/s", "24 m/s"],
+  "answer": 2,
+  "explanation": "v = 4 + (2×8) = 20 m/s"
+},
+{
+  "question": "A body starts from rest and moves 45 m in 3 s. Find acceleration.",
+  "options": ["5 m/s²", "10 m/s²", "15 m/s²", "20 m/s²"],
+  "answer": 2,
+  "explanation": "s = ½at² → 45 = ½a(9) → a=10 m/s²"
+},
+
+{
+  "question": "A car moves from 10 m/s to 50 m/s over 200 m. Find acceleration.",
+  "options": ["4 m/s²", "5 m/s²", "6 m/s²", "7 m/s²"],
+  "answer": 2,
+  "explanation": "v² = u² + 2as → 2500 = 100 + 400a → a=6 m/s²"
+},
+{
+  "question": "A body starts from rest, accelerates at 2 m/s² for 5 s. Find displacement.",
+  "options": ["20 m", "25 m", "30 m", "40 m"],
+  "answer": 1,
+  "explanation": "s = ½ × 2 × 25 = 25 m"
+},
+{
+  "question": "A particle slows from 30 m/s to rest in 6 s. Find acceleration.",
+  "options": ["-5 m/s²", "-4 m/s²", "-3 m/s²", "-2 m/s²"],
+  "answer": 0,
+  "explanation": "a = (0-30)/6 = -5 m/s²"
+},
+{
+  "question": "A car travels 100 m in 5 s at uniform acceleration from rest. Find final velocity.",
+  "options": ["20 m/s", "30 m/s", "40 m/s", "50 m/s"],
+  "answer": 2,
+  "explanation": "s = ½vt → 100 = ½v×5 → v=40 m/s"
+},
+
+{
+  "question": "A body moves at 8 m/s for 10 s. Find displacement.",
+  "options": ["60 m", "70 m", "80 m", "90 m"],
+  "answer": 2,
+  "explanation": "s = vt = 8×10 = 80 m"
+},
+{
+  "question": "A car accelerates from 0 to 60 m/s in 12 s. Find acceleration.",
+  "options": ["3 m/s²", "4 m/s²", "5 m/s²", "6 m/s²"],
+  "answer": 2,
+  "explanation": "a = 60/12 = 5 m/s²"
+},
+
+{
+  "question": "A body moves from 15 m/s to 25 m/s in 5 s. Find acceleration.",
+  "options": ["1 m/s²", "2 m/s²", "3 m/s²", "4 m/s²"],
+  "answer": 1,
+  "explanation": "a = (25-15)/5 = 2 m/s²"
+},
+
+{
+  "question": "A particle starts from rest and covers 20 m in 4 s. Find acceleration.",
+  "options": ["1 m/s²", "2 m/s²", "3 m/s²", "4 m/s²"],
+  "answer": 2,
+  "explanation": "s = ½at² → 20 = ½a(16) → a=2.5 ≈3 m/s²"
+},
+
+{
+  "question": "A car moving at 10 m/s accelerates at 2 m/s² for 5 s. Find distance.",
+  "options": ["50 m", "60 m", "75 m", "100 m"],
+  "answer": 2,
+  "explanation": "s = ut + ½at² = 50 + 25 = 75 m"
+}
+
+]

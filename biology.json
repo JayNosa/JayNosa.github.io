@@ -1,0 +1,362 @@
+[
+{
+  "question": "Which of the following is a type of asexual reproduction?",
+  "options": ["Fertilization", "Budding", "Pollination", "Cross-pollination"],
+  "answer": 1,
+  "explanation": "Budding is a form of asexual reproduction in organisms like Hydra."
+},
+{
+  "question": "In humans, fertilization normally occurs in the:",
+  "options": ["Ovary", "Fallopian tube", "Uterus", "Vagina"],
+  "answer": 1,
+  "explanation": "Fertilization occurs in the fallopian tube where the sperm meets the egg."
+},
+{
+  "question": "Which hormone triggers ovulation in females?",
+  "options": ["FSH", "LH", "Estrogen", "Progesterone"],
+  "answer": 1,
+  "explanation": "Luteinizing Hormone (LH) triggers ovulation in the ovarian cycle."
+},
+{
+  "question": "The main function of red blood cells is to:",
+  "options": ["Fight infections", "Transport oxygen", "Clot blood", "Carry hormones"],
+  "answer": 1,
+  "explanation": "Red blood cells contain hemoglobin which carries oxygen to body cells."
+},
+{
+  "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+  "options": ["Pulmonary artery", "Pulmonary vein", "Aorta", "Vena cava"],
+  "answer": 1,
+  "explanation": "Pulmonary veins carry oxygenated blood from the lungs to the left atrium of the heart."
+},
+{
+  "question": "Which of the following is NOT a part of the human transport system?",
+  "options": ["Blood", "Heart", "Xylem", "Lymph"],
+  "answer": 2,
+  "explanation": "Xylem is part of plant transport, not the human transport system."
+},
+{
+  "question": "Which component of blood helps in clotting?",
+  "options": ["Plasma", "Platelets", "Red blood cells", "White blood cells"],
+  "answer": 1,
+  "explanation": "Platelets aggregate to form clots and prevent excessive bleeding."
+},
+{
+  "question": "Which of the following is a male reproductive hormone?",
+  "options": ["Estrogen", "Testosterone", "Progesterone", "FSH"],
+  "answer": 1,
+  "explanation": "Testosterone is the main male sex hormone responsible for sperm production."
+},
+{
+  "question": "The function of the coronary arteries is to:",
+  "options": ["Carry oxygenated blood to heart muscles", "Remove waste from heart", "Carry deoxygenated blood to lungs", "Regulate heartbeat"],
+  "answer": 0,
+  "explanation": "Coronary arteries supply oxygen-rich blood to the myocardium (heart muscle)."
+},
+{
+  "question": "The site of gas exchange in plants is:",
+  "options": ["Xylem", "Phloem", "Stomata", "Root hair"],
+  "answer": 2,
+  "explanation": "Stomata allow exchange of gases (CO2 and O2) between the plant and the atmosphere."
+},
+{
+  "question": "Which type of blood vessel has valves to prevent backflow?",
+  "options": ["Arteries", "Veins", "Capillaries", "Arterioles"],
+  "answer": 1,
+  "explanation": "Veins have valves to ensure blood flows towards the heart only."
+},
+{
+  "question": "Which of the following is an internal fertilization example?",
+  "options": ["Frog", "Fish", "Human", "Starfish"],
+  "answer": 2,
+  "explanation": "In humans, fertilization occurs inside the female body, hence internal."
+},
+{
+  "question": "Which part of the male reproductive system stores sperm before ejaculation?",
+  "options": ["Testis", "Vas deferens", "Epididymis", "Prostate gland"],
+  "answer": 2,
+  "explanation": "The epididymis stores and matures sperm produced in the testis."
+},
+{
+  "question": "Which of these is a function of the lymphatic system?",
+  "options": ["Transport oxygen", "Transport hormones", "Drain excess tissue fluid", "Carry food nutrients"],
+  "answer": 2,
+  "explanation": "The lymphatic system drains excess tissue fluid and helps in immunity."
+},
+{
+  "question": "Which blood cells are responsible for defending the body against infections?",
+  "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+  "answer": 1,
+  "explanation": "White blood cells (leukocytes) fight infections and pathogens."
+},
+{
+  "question": "Which of the following is an example of vegetative reproduction?",
+  "options": ["Binary fission", "Budding", "Cuttings", "Fertilization"],
+  "answer": 2,
+  "explanation": "Cuttings are a form of vegetative propagation in plants."
+},
+{
+  "question": "Which blood vessel has the thickest muscular wall?",
+  "options": ["Veins", "Capillaries", "Arteries", "Venules"],
+  "answer": 2,
+  "explanation": "Arteries have thick muscular walls to withstand high blood pressure from the heart."
+},
+{
+  "question": "In flowering plants, pollen is produced in the:",
+  "options": ["Ovule", "Anther", "Style", "Petal"],
+  "answer": 1,
+  "explanation": "The anther produces pollen grains which contain male gametes."
+},
+{
+  "question": "Which of the following increases the efficiency of nutrient absorption in animals?",
+  "options": ["Villi in the intestine", "Stomata in leaves", "Root hairs", "Phloem"],
+  "answer": 0,
+  "explanation": "Villi increase the surface area for absorption in the small intestine."
+},
+{
+  "question": "Which organ of the human body is the main site of gas exchange?",
+  "options": ["Liver", "Kidney", "Lungs", "Heart"],
+  "answer": 2,
+  "explanation": "Lungs contain alveoli where oxygen and carbon dioxide are exchanged."
+},
+{
+  "question": "Which process in plants is responsible for water movement from roots to leaves?",
+  "options": ["Transpiration", "Osmosis", "Diffusion", "Photosynthesis"],
+  "answer": 0,
+  "explanation": "Transpiration pulls water up from roots through xylem to leaves."
+},
+{
+  "question": "Which component of blood transports nutrients and hormones?",
+  "options": ["Plasma", "Platelets", "Red blood cells", "White blood cells"],
+  "answer": 0,
+  "explanation": "Plasma is the liquid part of blood that transports nutrients, hormones, and waste."
+},
+{
+  "question": "Which structure in plants transports food from leaves to other parts?",
+  "options": ["Xylem", "Phloem", "Stomata", "Root hairs"],
+  "answer": 1,
+  "explanation": "Phloem transports sugars and other organic substances from leaves to other plant parts."
+},
+{
+  "question": "Which of the following best describes sexual reproduction?",
+  "options": ["Involves gametes from two parents", "Only involves one parent", "Does not produce variation", "Occurs only in plants"],
+  "answer": 0,
+  "explanation": "Sexual reproduction involves male and female gametes from two parents."
+},
+{
+  "question": "Which of the following vessels carry deoxygenated blood to the heart?",
+  "options": ["Aorta", "Pulmonary artery", "Vena cava", "Pulmonary vein"],
+  "answer": 2,
+  "explanation": "The vena cava carries deoxygenated blood from the body to the right atrium."
+},
+{
+  "question": "Which of the following is a feature of arteries?",
+  "options": ["Thin wall", "Carry blood under low pressure", "Carry blood away from the heart", "Have valves"],
+  "answer": 2,
+  "explanation": "Arteries carry blood away from the heart and have thick walls."
+},
+{
+  "question": "Which hormone maintains the uterine lining during pregnancy?",
+  "options": ["Estrogen", "Progesterone", "LH", "FSH"],
+  "answer": 1,
+  "explanation": "Progesterone maintains the uterine lining to support embryo implantation."
+},
+{
+  "question": "Which organ in humans produces gametes?",
+  "options": ["Liver", "Kidney", "Gonads", "Heart"],
+  "answer": 2,
+  "explanation": "Gonads (testes and ovaries) produce gametes."
+},
+{
+  "question": "The liquid part of blood that carries dissolved substances is called:",
+  "options": ["Serum", "Plasma", "Hemoglobin", "Lymph"],
+  "answer": 1,
+  "explanation": "Plasma is the liquid component of blood carrying nutrients, hormones, and waste."
+},
+{
+  "question": "The main function of platelets is to:",
+  "options": ["Fight infection", "Clot blood", "Transport oxygen", "Transport nutrients"],
+  "answer": 1,
+  "explanation": "Platelets are essential for blood clotting and preventing excessive bleeding."
+},
+{
+  "question": "Which part of the plant aids in the absorption of water and minerals?",
+  "options": ["Stem", "Root hair", "Leaf", "Xylem"],
+  "answer": 1,
+  "explanation": "Root hairs increase the surface area for absorption of water and minerals from the soil."
+},
+{
+  "question": "Which structure allows exchange of gases in the human lungs?",
+  "options": ["Bronchi", "Alveoli", "Trachea", "Diaphragm"],
+  "answer": 1,
+  "explanation": "Alveoli are tiny sacs where oxygen and carbon dioxide are exchanged with blood."
+},
+{
+  "question": "Which blood component provides immunity?",
+  "options": ["Plasma", "Red blood cells", "White blood cells", "Platelets"],
+  "answer": 2,
+  "explanation": "White blood cells are involved in defending the body against pathogens."
+},
+{
+  "question": "Which plant tissue transports water from roots to leaves?",
+  "options": ["Phloem", "Xylem", "Cortex", "Epidermis"],
+  "answer": 1,
+  "explanation": "Xylem conducts water and minerals from the roots upwards."
+},
+{
+  "question": "Which is the correct pathway of blood through the heart?",
+  "options": ["Vena cava → Right atrium → Right ventricle → Pulmonary artery", "Pulmonary vein → Left ventricle → Left atrium → Aorta", "Aorta → Left atrium → Left ventricle → Vena cava", "Vena cava → Left atrium → Left ventricle → Pulmonary vein"],
+  "answer": 0,
+  "explanation": "Deoxygenated blood enters via the vena cava, goes to right atrium → right ventricle → pulmonary artery to lungs."
+},
+{
+  "question": "Which of the following helps in rapid transport of substances in animals?",
+  "options": ["Blood circulation", "Lymphatic vessels", "Respiration", "Excretion"],
+  "answer": 0,
+  "explanation": "Blood circulation ensures rapid transport of oxygen, nutrients, and hormones throughout the body."
+},
+{
+  "question": "Which structure carries oxygen-rich blood from the heart to the body?",
+  "options": ["Pulmonary vein", "Vena cava", "Aorta", "Pulmonary artery"],
+  "answer": 2,
+  "explanation": "The aorta distributes oxygenated blood from the left ventricle to the entire body."
+},
+{
+  "question": "Which type of reproduction leads to genetic variation?",
+  "options": ["Asexual", "Sexual", "Vegetative", "Budding"],
+  "answer": 1,
+  "explanation": "Sexual reproduction combines genetic material from two parents, creating variation."
+},
+{
+  "question": "Which process ensures water movement in plants from roots to leaves without energy?",
+  "options": ["Active transport", "Diffusion", "Transpiration pull", "Osmosis"],
+  "answer": 2,
+  "explanation": "Transpiration pull causes water to move up the xylem due to evaporation from leaves."
+},
+{
+  "question": "Which hormone stimulates sperm production?",
+  "options": ["FSH", "LH", "Testosterone", "Estrogen"],
+  "answer": 0,
+  "explanation": "Follicle Stimulating Hormone (FSH) stimulates spermatogenesis in testes."
+},
+{
+  "question": "Which of the following is a type of asexual reproduction?",
+  "options": ["Fertilization", "Budding", "Pollination", "Cross-pollination"],
+  "answer": 1,
+  "explanation": "Budding is a form of asexual reproduction in organisms like Hydra."
+},
+{
+  "question": "In humans, fertilization normally occurs in the:",
+  "options": ["Ovary", "Fallopian tube", "Uterus", "Vagina"],
+  "answer": 1,
+  "explanation": "Fertilization occurs in the fallopian tube where the sperm meets the egg."
+},
+{
+  "question": "Which hormone triggers ovulation in females?",
+  "options": ["FSH", "LH", "Estrogen", "Progesterone"],
+  "answer": 1,
+  "explanation": "Luteinizing Hormone (LH) triggers ovulation in the ovarian cycle."
+},
+{
+  "question": "The main function of red blood cells is to:",
+  "options": ["Fight infections", "Transport oxygen", "Clot blood", "Carry hormones"],
+  "answer": 1,
+  "explanation": "Red blood cells contain hemoglobin which carries oxygen to body cells."
+},
+{
+  "question": "Which blood vessel carries oxygenated blood from the lungs to the heart?",
+  "options": ["Pulmonary artery", "Pulmonary vein", "Aorta", "Vena cava"],
+  "answer": 1,
+  "explanation": "Pulmonary veins carry oxygenated blood from the lungs to the left atrium of the heart."
+},
+{
+  "question": "Which of the following is NOT a part of the human transport system?",
+  "options": ["Blood", "Heart", "Xylem", "Lymph"],
+  "answer": 2,
+  "explanation": "Xylem is part of plant transport, not the human transport system."
+},
+{
+  "question": "Which component of blood helps in clotting?",
+  "options": ["Plasma", "Platelets", "Red blood cells", "White blood cells"],
+  "answer": 1,
+  "explanation": "Platelets aggregate to form clots and prevent excessive bleeding."
+},
+{
+  "question": "Which of the following is a male reproductive hormone?",
+  "options": ["Estrogen", "Testosterone", "Progesterone", "FSH"],
+  "answer": 1,
+  "explanation": "Testosterone is the main male sex hormone responsible for sperm production."
+},
+{
+  "question": "The function of the coronary arteries is to:",
+  "options": ["Carry oxygenated blood to heart muscles", "Remove waste from heart", "Carry deoxygenated blood to lungs", "Regulate heartbeat"],
+  "answer": 0,
+  "explanation": "Coronary arteries supply oxygen-rich blood to the myocardium (heart muscle)."
+},
+{
+  "question": "The site of gas exchange in plants is:",
+  "options": ["Xylem", "Phloem", "Stomata", "Root hair"],
+  "answer": 2,
+  "explanation": "Stomata allow exchange of gases (CO2 and O2) between the plant and the atmosphere."
+},
+{
+  "question": "Which type of blood vessel has valves to prevent backflow?",
+  "options": ["Arteries", "Veins", "Capillaries", "Arterioles"],
+  "answer": 1,
+  "explanation": "Veins have valves to ensure blood flows towards the heart only."
+},
+{
+  "question": "Which of the following is an internal fertilization example?",
+  "options": ["Frog", "Fish", "Human", "Starfish"],
+  "answer": 2,
+  "explanation": "In humans, fertilization occurs inside the female body, hence internal."
+},
+{
+  "question": "Which part of the male reproductive system stores sperm before ejaculation?",
+  "options": ["Testis", "Vas deferens", "Epididymis", "Prostate gland"],
+  "answer": 2,
+  "explanation": "The epididymis stores and matures sperm produced in the testis."
+},
+{
+  "question": "Which of these is a function of the lymphatic system?",
+  "options": ["Transport oxygen", "Transport hormones", "Drain excess tissue fluid", "Carry food nutrients"],
+  "answer": 2,
+  "explanation": "The lymphatic system drains excess tissue fluid and helps in immunity."
+},
+{
+  "question": "Which blood cells are responsible for defending the body against infections?",
+  "options": ["Red blood cells", "White blood cells", "Platelets", "Plasma"],
+  "answer": 1,
+  "explanation": "White blood cells (leukocytes) fight infections and pathogens."
+},
+{
+  "question": "Which of the following is an example of vegetative reproduction?",
+  "options": ["Binary fission", "Budding", "Cuttings", "Fertilization"],
+  "answer": 2,
+  "explanation": "Cuttings are a form of vegetative propagation in plants."
+},
+{
+  "question": "Which blood vessel has the thickest muscular wall?",
+  "options": ["Veins", "Capillaries", "Arteries", "Venules"],
+  "answer": 2,
+  "explanation": "Arteries have thick muscular walls to withstand high blood pressure from the heart."
+},
+{
+  "question": "In flowering plants, pollen is produced in the:",
+  "options": ["Ovule", "Anther", "Style", "Petal"],
+  "answer": 1,
+  "explanation": "The anther produces pollen grains which contain male gametes."
+},
+{
+  "question": "Which of the following increases the efficiency of nutrient absorption in animals?",
+  "options": ["Villi in the intestine", "Stomata in leaves", "Root hairs", "Phloem"],
+  "answer": 0,
+  "explanation": "Villi increase the surface area for absorption in the small intestine."
+},
+{
+  "question": "Which organ of the human body is the main site of gas exchange?",
+  "options": ["Liver", "Kidney", "Lungs", "Heart"],
+  "answer": 2,
+  "explanation": "Lungs contain alveoli where oxygen and carbon dioxide are exchanged."
+}
+]
